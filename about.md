@@ -2,8 +2,6 @@
 title: About me
 ---
 
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Donec elementum ligula eu sapien consequat eleifend.
+Shuai Huang is an Assistant Professor in the Department of Industrial and Systems Engineering at the University of Washington. He received his Ph.D. degree in Industrial Engineering from Arizona State University in 2012 and his Bachelor's degree in Statistics from the University of Science and Technology of China in 2007. His research interests include Statistical Learning and Data Mining motivated by decision-making challenges in Healthcare, Biomedical Informatics, and Manufacturing.
 
-Donec nec dolor erat, condimentum sagittis sem. Praesent porttitor porttitor risus, dapibus rutrum ipsum gravida et. Integer lectus nisi, facilisis sit amet eleifend nec, pharetra ut augue. Integer quam nunc, consequat nec egestas ac, volutpat ac nisi.
-
-Find me on [GitHub](https://github.com/muan) or [Twitter](https://twitter.com/muanchiou).
+To contact him, please send email to the following email address: [shuai.huang.ie@gmail.com](shuai.huang.ie@gmail.com)
