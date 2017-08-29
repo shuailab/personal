@@ -9,7 +9,7 @@ share:            false # Turn on twitter and facebook share buttons
 
 links:
   - name:         About me
-    url:          /about
+    url:          /
     external:     false
   - name:         Research
     url:          /research
