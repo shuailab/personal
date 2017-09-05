@@ -22,6 +22,17 @@ ___
 
 *Examples*
 
+- Smart monitoring of complex diseases ([link](https://sites.google.com/site/shuaihuang28/website-builder/thrust-2/smart-monitoring))
+- Integration with mHealth technology ([link](https://sites.google.com/site/shuaihuang28/website-builder/thrust-2/mpower))
 
 ___
+**Research Thrust 3: Generalization of Different Applications into Holistic Methodologies of Data-Driven System Modeling, Monitoring, and Optimization**
 
+*Examples*
+
+- Network modeling & learning, monitoring & diagnosis, sensing & control (link)
+- High-dimensional statistical learning and data analysis (link)
+- Quality control of high-dimensional systems (link)
+- Prognostics and health management (link)
+
+*Codes developed in Shuai's lab can be found in [GitHub](https://github.com/shuailab).*
