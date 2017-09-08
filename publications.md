@@ -2,6 +2,7 @@
 title:
 ---
 
+___
 ### **Methodology (Machine Learning/Analytics/Decision Making)**
 
 **[IIE]** **Yan<sup>1</sup>, J.**, **Huang, S.**, Wang, G. and Deng, H., "Diagnostic Monitoring of Multivariate Process via a LASSO-BN Formulation", *IIE Transactions*, 2017. 
@@ -50,7 +51,7 @@ title:
 
 
 
-
+___
 <br><br>
 ### **Healthcare Applications (Disease Research and Healthcare Management)**
 
@@ -86,7 +87,7 @@ title:
 
 
 
-
+___
 <br><br>
 ### **Acknowledgment for Funding Support**
 
