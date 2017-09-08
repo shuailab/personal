@@ -13,4 +13,5 @@ title: Teaching
 - [IND E 524: Robust Design & Quality Engineering](http://www.washington.edu/students/crscat/inde.html#inde524)
 
 **DATA ANALYTICS** (combined for both undergraduate and graduate students)
+
 - [IND E 498 Special Topics: Data Analytics](http://analytics.shuaihuang.info/)
