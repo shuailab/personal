@@ -35,4 +35,3 @@ ___
 - Quality control of high-dimensional systems (link)
 - Prognostics and health management (link)
 
-*Codes developed in Shuai's lab can be found in [GitHub](https://github.com/shuailab).*
