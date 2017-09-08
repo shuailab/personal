@@ -25,7 +25,7 @@ title:
 
 
 ### **Journal and Conferences Reviewers**
-NIPS, KDD, ICML, SDM, IJCAI, Technometrics, IIE Transactions, Annals of Operations Research, IEEE Transactions on Knowledge and Data Engineering, IEEE Transactions on Systems, Man and Cybernetic, IEEE Transactions on Reliability, IEEE Transactions on Automation Science and Engineering, Neuroimage, PLOS one, Pattern Recognition, Neurocomputing, Journal of Manufacturing Systems
+= NIPS, KDD, ICML, SDM, IJCAI, Technometrics, IIE Transactions, Annals of Operations Research, IEEE Transactions on Knowledge and Data Engineering, IEEE Transactions on Systems, Man and Cybernetic, IEEE Transactions on Reliability, IEEE Transactions on Automation Science and Engineering, Neuroimage, PLOS one, Pattern Recognition, Neurocomputing, Journal of Manufacturing Systems
 
 
 ### **Membership**
