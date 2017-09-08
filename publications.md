@@ -55,7 +55,7 @@ title:
 
 <br><br>
 
-### **Healthcare Applications (Disease Research and Healthcare Management)**
+### **Healthcare Applications (Disease Research/Healthcare Management)**
 
 - **[EURASIP]**  **Huang, S**., Zhou, J., Wang, Z., Ling, Q. and Shen, Y, "**Biomedical informatics with Optimization and Machine Learning**", *EURASIP Journal of Bioinformatics and Systems Biology*, 2017.
 
