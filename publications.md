@@ -53,10 +53,9 @@ title:
 
 **[NIPS]**  **Huang, S**., Li, J., Sun, L., Ye, J., Chen, K. and Wu, T., 2009, “**Learning Brain Connectivity of Azheimer's Disease from Neuroimaging Data**,” *Proceedings of Neural Information Processing Systems Conference (NIPS)*, Dec. 7-9, 2009, Vancouver, B.C., Canada. (invited for oral presentation, acceptance rate 8%).
 
-
+<br><br>
 
 ___
-<br><br>
 ### **Healthcare Applications (Disease Research and Healthcare Management)**
 
 **[EURASIP]**  **Huang, S**., Zhou, J., Wang, Z., Ling, Q. and Shen, Y, "**Biomedical informatics with Optimization and Machine Learning**", *EURASIP Journal of Bioinformatics and Systems Biology*, 2017.
@@ -91,10 +90,9 @@ ___
 
 
 
-
+<br><br>
 
 ___
-<br><br>
 ### **Acknowledgment for Funding Support**
 
 Acknowledgment for funding support from National Science Foundation (CMMI-1505260, CMMI-1536398, CCF-1715027), Juvenile Diabetes Research  Foundation (http://jdrf.org/), NIH (https://www.nih.gov/), DARPA (https://www.darpa.mil/), U.S. Army Electronic Proving Ground (http://www.epg.army.mil/), Byrd Alzheimer's Institute (http://health.usf.edu/byrd/index.htm), Royalty Research Foundation (http://www.washington.edu/research/or/?page=rrf), the Helmsley Foundation (http://helmsleytrust.org/programs/health-type-1-diabetes).
