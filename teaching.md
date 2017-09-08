@@ -12,6 +12,5 @@ title: Teaching
 - [IND E 521: Quality Control in Manufacturing](http://www.washington.edu/students/crscat/inde.html#inde524)
 - [IND E 524: Robust Design & Quality Engineering](http://www.washington.edu/students/crscat/inde.html#inde524)
 
-**User R!!**
-
-- R Session for IND E 321 ([link]())
+**DATA ANALYTICS** (combined for both undergraduate and graduate students)
+- [IND E 498 Special Topics: Data Analytics](http://analytics.shuaihuang.info/)
