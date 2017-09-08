@@ -93,4 +93,10 @@ title:
 
 ### **Acknowledgment for Funding Support**
 
-- Acknowledgment for funding support from National Science Foundation (CMMI-1505260, CMMI-1536398, CCF-1715027), Juvenile Diabetes Research  Foundation (http://jdrf.org/), NIH (https://www.nih.gov/), DARPA (https://www.darpa.mil/), U.S. Army Electronic Proving Ground (http://www.epg.army.mil/), Byrd Alzheimer's Institute (http://health.usf.edu/byrd/index.htm), Royalty Research Foundation (http://www.washington.edu/research/or/?page=rrf), the Helmsley Foundation (http://helmsleytrust.org/programs/health-type-1-diabetes).
+- National Science Foundation (CMMI-1505260, CMMI-1536398, CCF-1715027)
+- Juvenile Diabetes Research Foundation
+- NIH
+- DARPA 
+- Byrd Alzheimer's Institute 
+- Royalty Research Foundation
+- Helmsley Foundation
