@@ -65,7 +65,7 @@ title:
 
 - **[EURASIP]**  **Yan<sup>1</sup>, J.**, Su, Y., Zhou, XH. and **Huang, S**. "**Heterogeneous Multimodal Biomarker Analysis for Alzheimer’s Disease via Bayesian Network**", *EURASIP Journal of Bioinformatics and Systems Biology*, 2016.
 
-- **[ART]**  Grewal, R., **Haghighi<sup>1</sup>, M.**, **Huang, S**., Smith, A., Cao, C., Lin, X., Lee, D., Teten, N., Pharm, H. and Selenica. “Identifying Biomarkers of Dementia Prevalent Among Amnestic MCI Ethnic Female Patients”, *Alzheimer's Research & Therapy*, 2016.
+- **[ART]**  Grewal, R., **Haghighi<sup>1</sup>, M.**, **Huang, S**., Smith, A., Cao, C., Lin, X., Lee, D., Teten, N., Pharm, H. and Selenica. “**Identifying Biomarkers of Dementia Prevalent Among Amnestic MCI Ethnic Female Patients**”, *Alzheimer's Research & Therapy*, 2016.
 
 - **[SR]**  **Haghighi<sup>1</sup>, M.**, Johnson, S., Qian, X., Lynch, K., Vehik, K., **Huang, S**. and the TEDDY Study Group, "**A Comparison of Rule-based Analysis with Regression Methods in Understanding the Risk Factors for Study Withdrawal in a Pediatric Study**", *Scientific Report*, 2016.
 
