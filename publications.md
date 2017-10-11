@@ -57,13 +57,13 @@ title:
 
 ### **Healthcare Applications (Disease Research/Healthcare Management)**
 
-- **[EURASIP]**  **Huang, S**., Zhou, J., Wang, Z., Ling, Q. and Shen, Y, "**Biomedical informatics with Optimization and Machine Learning**", *EURASIP Journal of Bioinformatics and Systems Biology*, 2017.
+- **[EURASIP]**  **Huang, S**., Zhou, J., Wang, Z., Ling, Q. and Shen, Y, "**Biomedical informatics with Optimization and Machine Learning**", *EURASIP Journal of Advances in Signal Processing*, 2017.
 
 - **[JBI]**  Huang, YJ., **Meng<sup>1</sup>, Q.**, Evans, H., Lober, B., Cheng, Y., Qian, X., Liu, J. and **Huang, S**. "**CHI: A Contemporaneous Health Index for Degenerative Disease Monitoring using Longitudinal Measurements**", *Journal of Biomedical Informatics*, 2017.
 
 - **[MathBio]**  **Lin<sup>1</sup>, Y.**, **Huang, S**., Simon, G. and Liu, S. "**Analysis of Depression Trajectory Patterns using Collaborative Learning**", *Mathematical Bioscience*, 2016.
 
-- **[EURASIP]**  **Yan<sup>1</sup>, J.**, Su, Y., Zhou, XH. and **Huang, S**. "**Heterogeneous Multimodal Biomarker Analysis for Alzheimer’s Disease via Bayesian Network**", *EURASIP Journal of Bioinformatics and Systems Biology*, 2016.
+- **[EURASIP]**  **Yan<sup>1</sup>, J.**, Su, Y., Zhou, XH. and **Huang, S**. "**Heterogeneous Multimodal Biomarker Analysis for Alzheimer’s Disease via Bayesian Network**", *EURASIP Journal of Advances in Signal Processing*, 2016.
 
 - **[ART]**  Grewal, R., **Haghighi<sup>1</sup>, M.**, **Huang, S**., Smith, A., Cao, C., Lin, X., Lee, D., Teten, N., Pharm, H. and Selenica. “**Identifying Biomarkers of Dementia Prevalent Among Amnestic MCI Ethnic Female Patients**”, *Alzheimer's Research & Therapy*, 2016.
 
