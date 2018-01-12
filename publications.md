@@ -3,9 +3,13 @@ title:
 ---
 ### **Methodology (Machine Learning/Analytics/Decision Making)**
 
-- **[IEEE-ASE]**  **Xiao<sup>1</sup>, C.**, **Yan<sup>1</sup>, J.**, Liu, J., Zeng, B. and **Huang, S.**, "**Optimal Expert Knowledge Elicitation for Bayesian Network Structure Identification**", *IEEE Transactions on Automation Science and Engineering*, 2017. 
+- **[IEEE-PAMI]**  Ren, S., **Huang, S.**, Ye, J. and X, Qian., "**Safe Feature Screening for Generalized LASSO**", *IEEE Transactions on Pattern Analysis and Machine Intelligence*, 2018. 
 
-- **[IIE]**  **Yan<sup>1</sup>, J.**, **Huang, S.**, Wang, G. and Deng, H., "**Diagnostic Monitoring of Multivariate Process via a LASSO-BN Formulation**", *IIE Transactions*, 2017. 
+- **[IEEE-Reliability]**  **Lin<sup>1</sup>, Y.**, Liu, K., Byon, E., X, Qian., Liu, S. and **Huang, S.**, "**A Collaborative Learning Framework for Estimating Many Individualized Regression Models in a Heterogeneous Population**", *IEEE Transactions on Reliability*, 2017. 
+
+- **[IEEE-ASE]**  **Xiao<sup>1</sup>, C.**, **Jin<sup>1</sup>, Y.**, Liu, J., Zeng, B. and **Huang, S.**, "**Optimal Expert Knowledge Elicitation for Bayesian Network Structure Identification**", *IEEE Transactions on Automation Science and Engineering*, 2018. 
+
+- **[IIE]**  **Jin<sup>1</sup>, Y.**, **Huang, S.**, Wang, G. and Deng, H., "**Diagnostic Monitoring of Multivariate Process via a LASSO-BN Formulation**", *IIE Transactions*, 2017. 
 
 - **[IEEE-TPS]**  You, M., Liu, B., Byon, E., **Huang, S.**, Jin, J., "**Direction-dependent Power Curve Modeling for Multiple Interacting Wind Turbines**", *IEEE Transactions on Power Systems*, 2017.
 
@@ -35,7 +39,7 @@ title:
 
 - **[APL]**  Wang, R., **Huang, S**., Li, J. and Chae, J., “**Probing Thyroglobulin in Undiluted Human Serum based on Pattern Recognition and Competitive Adsorption of Proteins**”, *Applied Physics Letters*, Vol. 105 (14), 143703-143705, 2014.
 
-- **[IIE]**  **Huang, S**., Ye, J., Fleisher, A., Chen, K., Reiman, E., Wu, T., and Li, J., “**A Sparse Structure Learning Algorithm for Bayesian Network Identification from High-dimensional Data**”, *IEEE Transactions on Pattern Analysis and Machine Intelligence*, 35(6), 1328-1342, 2013.
+- **[IEEE-PAMI]**  **Huang, S**., Ye, J., Fleisher, A., Chen, K., Reiman, E., Wu, T., and Li, J., “**A Sparse Structure Learning Algorithm for Bayesian Network Identification from High-dimensional Data**”, *IEEE Transactions on Pattern Analysis and Machine Intelligence*, 35(6), 1328-1342, 2013.
 
 - **[IIE]**  **Huang, S**., Li, J., Chen, K., Wu, T., Ye, J., Wu, X., and Li, Y., “**A Transfer Learning Approach for Network Modeling**”, *IIE Transactions*, 44, 915-931, 2012.
 
