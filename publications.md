@@ -3,6 +3,8 @@ title:
 ---
 ### **Methodology (Machine Learning/Analytics/Decision Making)**
 
+- **[EURASIP]**  **Samareh<sup>1</sup>, A.**, **Huang, S.**, "**DL-CHI: a Dictionary Learning-based Contemporaneous Health Index for Degenerative Disease Monitoring**", *EURASIP Journal of Advances in Signal Processing*, 2018.
+
 - **[IEEE-PAMI]**  Ren, S., **Huang, S.**, Ye, J. and X, Qian., "**Safe Feature Screening for Generalized LASSO**", *IEEE Transactions on Pattern Analysis and Machine Intelligence*, 2018. 
 
 - **[IEEE-Reliability]**  **Lin<sup>1</sup>, Y.**, Liu, K., Byon, E., X, Qian., Liu, S. and **Huang, S.**, "**A Collaborative Learning Framework for Estimating Many Individualized Regression Models in a Heterogeneous Population**", *IEEE Transactions on Reliability*, 2017. 
@@ -60,6 +62,8 @@ title:
 <br><br>
 
 ### **Healthcare Applications (Disease Research/Healthcare Management)**
+
+- **[AAAI-Abstract]** **Samareh<sup>1</sup>, A.**, **Yan<sup>1</sup>, J.**, Wang, Z., Chang, X., **Huang, S**., "**Predicting Depression Severity by Multi-Modal Feature Engineering and Fusion**", *In Proceedings of the 28-th AAAI Conference on Artificial Intelligence (AAAI)*, 2018.
 
 - **[EURASIP]**  **Huang, S**., Zhou, J., Wang, Z., Ling, Q. and Shen, Y, "**Biomedical informatics with Optimization and Machine Learning**", *EURASIP Journal of Advances in Signal Processing*, 2017.
 
