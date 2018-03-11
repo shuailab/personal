@@ -63,7 +63,7 @@ title:
 
 ### **Healthcare Applications (Disease Research/Healthcare Management)**
 
-- **[SR]**  **Lin<sup>1</sup>, Y.**, **Huang, S**., Simon, G. and Liu, S., "**Data-based Decision Rules to Personalize Depression Follow-u**", *Scientific Report*, 2018.
+- **[SR]**  **Lin<sup>1</sup>, Y.**, **Huang, S**., Simon, G. and Liu, S., "**Data-based Decision Rules to Personalize Depression Follow-up**", *Scientific Report*, 2018.
 
 - **[AAAI-Abstract]** **Samareh<sup>1</sup>, A.**, **Yan<sup>1</sup>, J.**, Wang, Z., Chang, X., **Huang, S**., "**Predicting Depression Severity by Multi-Modal Feature Engineering and Fusion**", *In Proceedings of the 28-th AAAI Conference on Artificial Intelligence (AAAI)*, 2018.
 
