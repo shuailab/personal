@@ -1,6 +1,6 @@
 # ----------- CONFIGURABLE START -----------
 title:            "Shuai Huang"
-description:      "Machine Learning, Health care, and Systems Engineering"
+description:      "Machine Learning, Healthcare, and Systems Engineering"
 url:              http://www.shuaihuang.info # Site url, without a slash at the end.
 signoff:          "Shuai" # Your name
 facebook_appid:   # APP ID for like button, remove from /_includes/share.html if unwanted.
