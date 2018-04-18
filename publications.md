@@ -3,6 +3,8 @@ title:
 ---
 ### **Methodology (Machine Learning/Analytics/Decision Making)**
 
+- **[IIE]** **Lin<sup>1</sup>, Y.**,  Liu, S. and **Huang, S**., "**Selective Sensing of A Heterogeneous Population of Units with Dynamic Health Conditions**", *IIE Transactions*, 2018. 
+
 - **[EURASIP]**  **Samareh<sup>1</sup>, A.**, **Huang, S.**, "**DL-CHI: a Dictionary Learning-based Contemporaneous Health Index for Degenerative Disease Monitoring**", *EURASIP Journal of Advances in Signal Processing*, 2018.
 
 - **[IEEE-PAMI]**  Ren, S., **Huang, S.**, Ye, J. and X, Qian., "**Safe Feature Screening for Generalized LASSO**", *IEEE Transactions on Pattern Analysis and Machine Intelligence*, 2018. 
