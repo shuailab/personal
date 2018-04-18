@@ -67,6 +67,8 @@ title:
 
 - **[SR]**  **Lin<sup>1</sup>, Y.**, **Huang, S**., Simon, G. and Liu, S., "**Data-based Decision Rules to Personalize Depression Follow-up**", *Scientific Report*, 2018.
 
+- **[JHIR]** Ardywibowo, R., **Huang, S**., Gui, S., **Xiao<sup>1</sup>, C.**, Cheng, Y., Liu, J. and Qian, X., "**Switching-State Dynamical Modeling of Daily Behavioral Data**", *Journal of Healthcare Informatics Research*, 2018.
+
 - **[AAAI-Abstract]** **Samareh<sup>1</sup>, A.**, **Yan<sup>1</sup>, J.**, Wang, Z., Chang, X., **Huang, S**., "**Predicting Depression Severity by Multi-Modal Feature Engineering and Fusion**", *In Proceedings of the 28-th AAAI Conference on Artificial Intelligence (AAAI)*, 2018.
 
 - **[EURASIP]**  **Huang, S**., Zhou, J., Wang, Z., Ling, Q. and Shen, Y, "**Biomedical informatics with Optimization and Machine Learning**", *EURASIP Journal of Advances in Signal Processing*, 2017.
