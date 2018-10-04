@@ -29,6 +29,9 @@ links:
   - name:         Students
     url:          /students
     external:     false
+  - name:         CV
+    url:          /CV
+    external:     false
   
 # ------------ CONFIGURABLE END ------------
 
