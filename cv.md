@@ -2,4 +2,4 @@
 title: CV
 ---
 
-Click this to download Shuai Huang's *CV*.
+Please click this to download Shuai Huang's *CV*.
