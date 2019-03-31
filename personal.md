@@ -5,7 +5,7 @@ title: PERSONAL
 **Washington** 
 
 
-<img src='./images/Horse in the neiborhood.JPG' alt='portrait' style="width:30%" align="center"/>
+<img src='./images/Horse in the neiborhood.jpg' alt='portrait' style="width:30%" align="center"/>
 
 
 **Florida** 
