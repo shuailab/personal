@@ -14,7 +14,7 @@ Language is a miracle, the same as **math**. One could love to write in order to
 Besides that, I like **hiking, biking, skating, or sometimes just walking** ... It is a great fun to hike/walk together with family and friends, in those grand pacific northwest forests and snow mountains, Arizona's immerse desert landscape, and Florida's beautiful glades... and many other places where I have not lived in but just visited for a short stay although was no less impressed ...
 
 
-So, if you share the same loves, or you'd like to introduce me to a new thing, let me know.
+So, if you share the same passion, or you'd like to introduce me to a new thing, let me know.
 
 
 <br><br>
