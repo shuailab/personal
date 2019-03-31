@@ -50,7 +50,7 @@ title: PERSONAL
 <img src='./images/Honeymoon Beach.JPG' alt='portrait' style="width:30%" align="center"/>
 <img src='./images/Dry Tortugas National Park 1.JPG' alt='portrait' style="width:30%" align="center"/>
 <img src='./images/Dry Tortugas National Park 2.JPG' alt='portrait' style="width:30%" align="center"/>
-<img src='./images/Cat in Hemingway's old house in Key West.JPG' alt='portrait' style="width:30%" align="center"/>
+<img src='./images/Cat in Hemingway old house in Key West.JPG' alt='portrait' style="width:30%" align="center"/>
 <img src='./images/Clearwater Beach.JPG' alt='portrait' style="width:30%" align="center"/>
 
 
