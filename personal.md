@@ -4,22 +4,11 @@ title: PERSONAL
 
 **Washington** 
 
-Bridal Veil Falls
-
-<img src='./images/Bridal Veil Falls.JPG' alt='portrait' style="width:30%" align="center"/>
-
-
-<img src='./images/Horse in the neiborhood.JPG' alt='portrait' style="width:30%" align="center"/>
-
-<img src='./images/Bridal Veil Falls.JPG' alt='portrait' style="width:30%" align="center"/>
+*Mount Rainer*
 
 <img src='./images/Dec in Mount Rainer 2.JPG' alt='portrait' style="width:30%" align="center"/>
 
 <img src='./images/Dec in Mount Rainer.JPG' alt='portrait' style="width:30%" align="center"/>
-
-<img src='./images/Lake cushman in WA.JPG' alt='portrait' style="width:30%" align="center"/>
-
-<img src='./images/Lake Serena.JPG' alt='portrait' style="width:30%" align="center"/>
 
 <img src='./images/Marmot in Mount Rainer.JPG' alt='portrait' style="width:30%" align="center"/>
 
@@ -31,19 +20,47 @@ Bridal Veil Falls
 
 <img src='./images/Mount Rainer 2.JPG' alt='portrait' style="width:30%" align="center"/>
 
+
+*Bridal Veil Falls*
+
+<img src='./images/Bridal Veil Falls.JPG' alt='portrait' style="width:30%" align="center"/>
+
+*Lake cushman*
+
+<img src='./images/Lake cushman in WA.JPG' alt='portrait' style="width:30%" align="center"/>
+
+*Lake Serena*
+<img src='./images/Lake Serena.JPG' alt='portrait' style="width:30%" align="center"/>
+
+*Mount Si*
+
 <img src='./images/Mount Si.JPG' alt='portrait' style="width:30%" align="center"/>
+
+*Rattlesnake Mount*
 
 <img src='./images/Rattlesnake Mount.JPG' alt='portrait' style="width:30%" align="center"/>
 
+*Strawberry picking in Bailey Farm in Snohomish WA*
+
 <img src='./images/Strawberry picking in Bailey Farm in Snohomish WA.JPG' alt='portrait' style="width:30%" align="center"/>
+
+*UW Fountain*
 
 <img src='./images/UW Fountain sunny day.JPG' alt='portrait' style="width:30%" align="center"/>
 
 <img src='./images/UW Fountain.JPG' alt='portrait' style="width:30%" align="center"/>
 
+*WA Forest*
+
 <img src='./images/WA Forest.JPG' alt='portrait' style="width:30%" align="center"/>
 
+*Wallace Fall*
+
 <img src='./images/Wallace fall.JPG' alt='portrait' style="width:30%" align="center"/>
+
+*Horse in the neiborhood* 
+<img src='./images/Horse in the neiborhood.JPG' alt='portrait' style="width:30%" align="center"/>
+
 
 
 **Florida** 
