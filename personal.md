@@ -27,8 +27,6 @@ ___
 
 <img src='./images/Dec in Mount Rainer 2.JPG' alt='portrait' style="width:30%" align="center"/>
 
-<img src='./images/Dec in Mount Rainer.JPG' alt='portrait' style="width:30%" align="center"/>
-
 <img src='./images/Marmot in Mount Rainer.JPG' alt='portrait' style="width:30%" align="center"/>
 
 <img src='./images/Meadow in Mount Rainer.JPG' alt='portrait' style="width:30%" align="center"/>
