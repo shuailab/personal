@@ -4,9 +4,10 @@ title:
 
 **PhD students (current)**
 
-- Aven Samareh (2016 - present, UW)
-- Tianshu Feng (2015 - present, UW)
-- Jingshuo Feng (2017 - present, UW)
+- Aven Samareh 
+- Jingshuo Feng 
+- Ameer Hamza Shakur
+- Wengeng Pan
 
 **PhD students (graduated)**
 
