@@ -96,7 +96,7 @@ ___
 
 <img src='./images/Honeymoon Beach.JPG' alt='portrait' style="width:30%" align="center"/>
 
-*Dry Tortugas National Par*
+*Dry Tortugas National Park*
 
 <img src='./images/Dry Tortugas National Park 1.JPG' alt='portrait' style="width:30%" align="center"/>
 <img src='./images/Dry Tortugas National Park 2.JPG' alt='portrait' style="width:30%" align="center"/>
