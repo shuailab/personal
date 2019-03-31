@@ -11,7 +11,7 @@ Language is a miracle, the same as **math**. One could love to write in order to
 (Yep, you may say, the peer-reviewed process in our academic world, is a larger concept of this joint writing process. Seeing tons of rejection letters is just normal, what else could we say? Writing is still a great joy.)
 
 
-Besides that, I like **hiking, biking, skating, or sometimes just walking** ... It is a great fun to hike/walk together with family and friends, in those grand pacific northwest forests and snow mountains, Arizona's immerse desert landscape, and Florida's beautiful glades... and many other places where I have not lived but just visited for a short stay although no less impressed ...
+Besides that, I like **hiking, biking, skating, or sometimes just walking** ... It is a great fun to hike/walk together with family and friends, in those grand pacific northwest forests and snow mountains, Arizona's immerse desert landscape, and Florida's beautiful glades... and many other places where I have not lived in but just visited for a short stay although was no less impressed ...
 
 
 So, if you share the same loves, or you'd like to introduce me to a new thing, let me know.
