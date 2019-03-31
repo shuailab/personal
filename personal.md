@@ -90,7 +90,7 @@ ___
 
 **Florida** 
 
-*An allagator whisper in Everglades* 
+*An alligator whisper in Everglades* 
 
 <img src='./images/Allagator whisper in Everglades.JPG' alt='portrait' style="width:30%" align="center"/>
 
