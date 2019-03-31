@@ -119,7 +119,7 @@ title: PERSONAL
 <img src='./images/Family portrait by my father-in-law.JPG' alt='portrait' style="width:30%" align="center"/>
 
 
-**Gardening**
+**A half-hearted Gardener**
 
 <img src='./images/Garden Japanese Maple2.JPG' alt='portrait' style="width:30%" align="center"/>
 <img src='./images/Garden Rose.JPG' alt='portrait' style="width:30%" align="center"/>
