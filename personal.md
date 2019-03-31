@@ -8,7 +8,7 @@ title: PERSONAL
 Language is a miracle. One could love to write in order to understand. And one could find great joy when writing with others . To write something together is to have a journey together: we communicate complex ideas that are not easy to get their forms and expressions right in oratory expressions; we reach a common understanding between different discipines; we still see things differently, but now strive for the same direction in parallel ... And, there is nothing to hide in writing. 
 
 
-(Yes, you may say, the peer-reviewed process in our academic world, is a larger concept of this joint writing process. Seeing tons of rejection letters is just normal, what else could we say? Writing is still a great joy.)
+(Yep, you may say, the peer-reviewed process in our academic world, is a larger concept of this joint writing process. Seeing tons of rejection letters is just normal, what else could we say? Writing is still a great joy.)
 
 
 Besides that, I like **hiking, biking, skating, or sometimes just walking** ... It is a great fun to hike/walk together with family and friends, in those grand pacific northwest forests and snow mountains, Arizona's immerse desert landscape, and Florida's beautiful glades... and many other places where I have not lived but just visited for a short stay although no less impressed ...
