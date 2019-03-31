@@ -5,7 +5,7 @@ title: PERSONAL
 **Writing** has always been my passion. Not sure since when, but probably could be traced back to the early days, when words suddernly become shinly and jingling, just like in any child's mind, who later finds oneself in this hard-to-explain-why-write writing business. The cause is a puzzle as well as a solution: writing and experience simply becomes one thing. 
 
 
-Language is a miracle, the same as **math**. One could love to write in order to understand. And one could find great joy when writing with others. To write something together is to have a journey together: we communicate complex ideas that are not easy to get their forms and expressions right in oratory expressions; we reach a common understanding between different discipines; we still see things differently, but now strive for the same direction in parallel ... And, there is nothing to hide in writing. 
+Language is a miracle, the same as **math**. One could love to write in order to understand. And one could find great joy when writing with others. To write something together is to have a journey together: we communicate complex ideas that are not easy to get their forms and expressions right in oratory expressions; we reach a common understanding between different disciplines; we see things differently, but now strive for the same direction in parallel ... And, there is nothing to hide in writing. 
 
 
 (Yep, you may say, the peer-reviewed process in our academic world, is a larger concept of this joint writing process. Seeing tons of rejection letters is just normal, what else could we say? Writing is still a great joy.)
