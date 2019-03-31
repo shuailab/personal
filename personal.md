@@ -78,7 +78,7 @@ ___
 
 <img src='./images/Wallace fall.JPG' alt='portrait' style="width:30%" align="center"/>
 
-*Horse in the neiborhood* 
+*Horses in the neighborhood* 
 
 <img src='./images/Horse in the neiborhood.JPG' alt='portrait' style="width:30%" align="center"/>
 
