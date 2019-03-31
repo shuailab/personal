@@ -4,7 +4,10 @@ title: PERSONAL
 
 **Washington** 
 
+Bridal Veil Falls
+
 <img src='./images/Bridal Veil Falls.JPG' alt='portrait' style="width:30%" align="center"/>
+
 
 <img src='./images/Horse in the neiborhood.JPG' alt='portrait' style="width:30%" align="center"/>
 
