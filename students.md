@@ -6,8 +6,6 @@ title:
 
 - Aven Samareh 
 - Jingshuo Feng 
-- Ameer Hamza Shakur
-- Wengeng Pan
 
 **PhD students (graduated)**
 
@@ -39,6 +37,7 @@ title:
 **Master students**
 
 - Yi He
+- Ameer Hamza Shakur
 
 **Undergraduate students**
 
