@@ -3,6 +3,12 @@ title:
 ---
 ### **Methodology (Machine Learning/Analytics/Decision Making)**
 
+- **[EJOR]** Wu, Z., **Huang, S**. and Xu, J., "**Multi-stage Optimization Models for Individual Consistency and Group Consensus with Preference Relations**", *European Journal of Operational Research*, 2019. 
+
+- **[AISTAT]** Ardywibowo, R., Zhao, G., Wang, Z., Mortazavi, B., **Huang, S**. and Qian, X., “**Adaptive Activity Monitoring with Uncertainty Quantification in Switching Gaussian Process Models**”, *The 22th International Conference on Artificial Intelligence and Statistics (AISTAT 2015)*, April. 16 -18, 2019, Naha, Okinawa, Japan. (paper acceptance rate 32 %).
+
+- **[IEEE-ASE]**  **Feng<sup>1</sup>, T.**, Qian, X., Liu, K. and **Huang, S.**, "**Dynamic Inspection of Latent Variables in State-Space Systems**", *IEEE Transactions on Automation Science and Engineering*, 2019. 
+
 - **[IIE]** **Lin<sup>1</sup>, Y.**,  Liu, S. and **Huang, S**., "**Selective Sensing of A Heterogeneous Population of Units with Dynamic Health Conditions**", *IIE Transactions*, 2018. 
 
 - **[EURASIP]**  **Samareh<sup>1</sup>, A.**, **Huang, S.**, "**DL-CHI: a Dictionary Learning-based Contemporaneous Health Index for Degenerative Disease Monitoring**", *EURASIP Journal of Advances in Signal Processing*, 2018.
@@ -65,11 +71,15 @@ title:
 
 ### **Healthcare Applications (Disease Research/Healthcare Management)**
 
+- **[IISE-HSE]**  **Samareh<sup>1</sup>, A.**, Jin, Y., Wang, Z., Chang, X., **Huang, S**., "**Detect Depression from Communication: How Computer Vision, Signal Processing, and Sentiment Analysis Join Forces**", *IISE Transactions on Healthcare Systems Engineering*, 2019.
+
 - **[SR]**  **Lin<sup>1</sup>, Y.**, **Huang, S**., Simon, G. and Liu, S., "**Data-based Decision Rules to Personalize Depression Follow-up**", *Scientific Report*, 2018.
 
 - **[JHIR]** Ardywibowo, R., **Huang, S**., Gui, S., **Xiao<sup>1</sup>, C.**, Cheng, Y., Liu, J. and Qian, X., "**Switching-State Dynamical Modeling of Daily Behavioral Data**", *Journal of Healthcare Informatics Research*, 2018.
 
-- **[AAAI-Abstract]** **Samareh<sup>1</sup>, A.**, **Yan<sup>1</sup>, J.**, Wang, Z., Chang, X., **Huang, S**., "**Predicting Depression Severity by Multi-Modal Feature Engineering and Fusion**", *In Proceedings of the 28-th AAAI Conference on Artificial Intelligence (AAAI)*, 2018.
+- **[AAAI-Abstract]** **Samareh<sup>1</sup>, A.**, **Yan<sup>1</sup>, J.**, Wang, Z., Chang, X., **Huang, S**., "**Robust emotion recognition from low quality and low bit rate video: A deep learning approach**", *In Proceedings of the 2017 Seventh International Conference on Affective Computing and Intelligent Interaction (ACII)*, 2017.
+
+- **[ACII]** Cheng, B., Wang, Z., Zhang, Z., Li, Z., Liu, D., Yang, J., **Huang, S**., Huang, T.S., "**Predicting Depression Severity by Multi-Modal Feature Engineering and Fusion**", *In Proceedings of the 28-th AAAI Conference on Artificial Intelligence (AAAI)*, 2018.
 
 - **[EURASIP]**  **Huang, S**., Zhou, J., Wang, Z., Ling, Q. and Shen, Y, "**Biomedical informatics with Optimization and Machine Learning**", *EURASIP Journal of Advances in Signal Processing*, 2017.
 
