@@ -23,7 +23,7 @@ ___
 
 **Washington** 
 
-*Mount Rainer*
+*Mount Rainier*
 
 <img src='./images/Dec in Mount Rainer 2.JPG' alt='portrait' style="width:30%" align="center"/>
 
@@ -50,7 +50,7 @@ ___
 
 <img src='./images/Lake Serena.JPG' alt='portrait' style="width:30%" align="center"/>
 
-*Mount Si*
+*Tiger Mount*
 
 <img src='./images/Mount Si.JPG' alt='portrait' style="width:30%" align="center"/>
 
@@ -72,7 +72,7 @@ ___
 
 <img src='./images/WA Forest.JPG' alt='portrait' style="width:30%" align="center"/>
 
-*Wallace Fall*
+*Wallace Falls*
 
 <img src='./images/Wallace fall.JPG' alt='portrait' style="width:30%" align="center"/>
 
