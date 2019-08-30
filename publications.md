@@ -1,15 +1,13 @@
 ---
 title:
 ---
-### **Methodology (Machine Learning/Analytics/Decision Making)**
+### **Machine Learning/Analytics/Decision Making**
 
 - **[EJOR]** Wu, Z., **Huang, S**. and Xu, J., "**Multi-stage Optimization Models for Individual Consistency and Group Consensus with Preference Relations**", *European Journal of Operational Research*, 2019. 
 
 - **[AISTAT]** Ardywibowo, R., Zhao, G., Wang, Z., Mortazavi, B., **Huang, S**. and Qian, X., “**Adaptive Activity Monitoring with Uncertainty Quantification in Switching Gaussian Process Models**”, *The 22th International Conference on Artificial Intelligence and Statistics (AISTAT 2015)*, April. 16 -18, 2019, Naha, Okinawa, Japan. (paper acceptance rate 32 %).
 
 - **[IIE]** **Lin<sup>1</sup>, Y.**,  Liu, S. and **Huang, S**., "**Selective Sensing of A Heterogeneous Population of Units with Dynamic Health Conditions**", *IIE Transactions*, 2018. 
-
-- **[EURASIP]**  **Samareh<sup>1</sup>, A.**, **Huang, S.**, "**DL-CHI: a Dictionary Learning-based Contemporaneous Health Index for Degenerative Disease Monitoring**", *EURASIP Journal of Advances in Signal Processing*, 2018.
 
 - **[IEEE-PAMI]**  Ren, S., **Huang, S.**, Ye, J. and X, Qian., "**Safe Feature Screening for Generalized LASSO**", *IEEE Transactions on Pattern Analysis and Machine Intelligence*, 2018. 
 
@@ -47,7 +45,7 @@ title:
 
 <br><br>
 
-### **Healthcare Applications (Disease Research/Healthcare Management)**
+### **Healthcare (Disease Research/Healthcare Management)**
 
 - **[SI]**  Jiang, Z., Ardywibowo, R., **Samareh<sup>1</sup>, A.**, Evans, H., Lober, B., Chang, X. and **Huang, S**., "**A Roadmap for Automatic Surgical Site Infection Detection and Evaluation Using User-Generated Incision Images**", *Surgical Infections*, 2019.
 
@@ -56,6 +54,8 @@ title:
 - **[JBI]**  He, K, **Huang, S**. and Qian, X., "**Early Detection and Risk Assessment for Chronic Disease with Irregular Longitudinal Data Analysis**", *Journal of Biomedical Informatics*, 2019.
 
 - **[IISE-HSE]**  **Samareh<sup>1</sup>, A.**, Jin, Y., Wang, Z., Chang, X., **Huang, S**., "**Detect Depression from Communication: How Computer Vision, Signal Processing, and Sentiment Analysis Join Forces**", *IISE Transactions on Healthcare Systems Engineering*, 2019.
+
+- **[EURASIP]**  **Samareh<sup>1</sup>, A.**, **Huang, S.**, "**DL-CHI: a Dictionary Learning-based Contemporaneous Health Index for Degenerative Disease Monitoring**", *EURASIP Journal of Advances in Signal Processing*, 2018.
 
 - **[SR]**  **Lin<sup>1</sup>, Y.**, **Huang, S**., Simon, G. and Liu, S., "**Data-based Decision Rules to Personalize Depression Follow-up**", *Scientific Report*, 2018.
 
@@ -98,7 +98,7 @@ title:
 
 <br><br>
 
-### **Manufacturing and other Engineering Applications **
+### **Manufacturing and other Engineering Areas **
 
 - **[IEEE-ASE]**  **Feng<sup>1</sup>, T.**, Qian, X., Liu, K. and **Huang, S.**, "**Dynamic Inspection of Latent Variables in State-Space Systems**", *IEEE Transactions on Automation Science and Engineering*, 2019. 
 
