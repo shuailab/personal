@@ -98,7 +98,7 @@ title:
 
 <br><br>
 
-### **Manufacturing and other Engineering Areas **
+### **Manufacturing and other Engineering Areas**
 
 - **[IEEE-ASE]**  **Feng<sup>1</sup>, T.**, Qian, X., Liu, K. and **Huang, S.**, "**Dynamic Inspection of Latent Variables in State-Space Systems**", *IEEE Transactions on Automation Science and Engineering*, 2019. 
 
