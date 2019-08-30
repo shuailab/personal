@@ -7,8 +7,6 @@ title:
 
 - **[AISTAT]** Ardywibowo, R., Zhao, G., Wang, Z., Mortazavi, B., **Huang, S**. and Qian, X., “**Adaptive Activity Monitoring with Uncertainty Quantification in Switching Gaussian Process Models**”, *The 22th International Conference on Artificial Intelligence and Statistics (AISTAT 2015)*, April. 16 -18, 2019, Naha, Okinawa, Japan. (paper acceptance rate 32 %).
 
-- **[IEEE-ASE]**  **Feng<sup>1</sup>, T.**, Qian, X., Liu, K. and **Huang, S.**, "**Dynamic Inspection of Latent Variables in State-Space Systems**", *IEEE Transactions on Automation Science and Engineering*, 2019. 
-
 - **[IIE]** **Lin<sup>1</sup>, Y.**,  Liu, S. and **Huang, S**., "**Selective Sensing of A Heterogeneous Population of Units with Dynamic Health Conditions**", *IIE Transactions*, 2018. 
 
 - **[EURASIP]**  **Samareh<sup>1</sup>, A.**, **Huang, S.**, "**DL-CHI: a Dictionary Learning-based Contemporaneous Health Index for Degenerative Disease Monitoring**", *EURASIP Journal of Advances in Signal Processing*, 2018.
@@ -19,19 +17,11 @@ title:
 
 - **[IEEE-ASE]**  **Xiao<sup>1</sup>, C.**, **Jin<sup>1</sup>, Y.**, Liu, J., Zeng, B. and **Huang, S.**, "**Optimal Expert Knowledge Elicitation for Bayesian Network Structure Identification**", *IEEE Transactions on Automation Science and Engineering*, 2018. 
 
-- **[IIE]**  **Jin<sup>1</sup>, Y.**, **Huang, S.**, Wang, G. and Deng, H., "**Diagnostic Monitoring of Multivariate Process via a LASSO-BN Formulation**", *IIE Transactions*, 2017. 
-
-- **[IEEE-TPS]**  You, M., Liu, B., Byon, E., **Huang, S.**, Jin, J., "**Direction-dependent Power Curve Modeling for Multiple Interacting Wind Turbines**", *IEEE Transactions on Power Systems*, 2017.
-
-- **[IEEE-ASE]**  Sun, HY., **Huang, S**. and Ran, J, "**Functional Graphical Models for Manufacturing Process Modeling**", *IEEE Transactions on Automation Science and Engineering*, 2017. 
-
 - **[IEEE-TIP]**  Lu, W., Cheng, Y., **Xiao<sup>1</sup>, C.**, Chang, S., **Huang, S**., Liang, B. and Huang, T. "**Unsupervised Sequential Outlier Detection with Deep Architectures**", *IEEE Transactions on Image Processing*, 2017.
 
 - **[SDM]**  Nie, Z., Lin, B.,  **Huang, S**., Ramakrishnan, N., Fan, W. and Ye, J. "**Pruning Decision Trees via Max-Heap Projection**", *The SIAM International Conference on Data Mining (SDM 2017)*, Apr. 27 – Apr. 29, 2017, Houston, TX. (paper acceptance rate < 25 %).
 
 - **[IJCAI]**  Wang, Z., **Huang, S**., Zhou, J. and Huang, T. "**Doubly Sparsifying Network**", *Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence (IJCAI-17)*, August 19-25, 2017, Melbourne, Australia. (paper acceptance rate = 25.9% %) 
-
-- **[SMJ]**  Li, M., **Lin<sup>1</sup>, Y.**, **Huang, S**. and Crossland, C., “**The Use of Sparse Inverse Covariance Estimation for Relationship Detection and Theory Building in Strategic Management**”, *Strategic Management Journal*, Vol. 37 (1), 86-97, 2016.
 
 - **[CVPR]**  Yang, H., Huang, Y., Tran, L., Liu, J. and **Huang, S**. 2016, “**On Benefits of Diversity Selection via Bilevel Exclusive Sparsity**”,  *Conference on Computer Vision and Pattern Recognition (CVPR 2016)*, June 27 – June 30, Las Vegas, Nevada, 2016. (paper acceptance rate 29.9 %)
 
@@ -43,33 +33,27 @@ title:
 
 - **[IIE]**  **Huang, S**., Kong, Z.Y. and Huang, W.Z., “**High-Dimensional Process Monitoring and Change Point Detection Using Embedding Distributions in Reproducing Kernel Hilbert Space (RKHS)**”, *IIE Transactions*, Vol. 46 (10), 999-1016, 2014.
 
-- **[IEEE-EC]**  Yampikulsakul, N., Byon, E., **Huang, S**. and Sheng, S.W., “**Condition Monitoring of Wind Power System with Non-Parametric Regression Analysis**”, *IEEE Transactions on Energy Conversion*, Vol. 29(2), 288-299, 2014.
-
 - **[PRL]**  **Liu<sup>1</sup>, Y.**, Fabri, P., Zayas-Castro, J. and **Huang, S**., “**Learning High-dimensional Networks with Nonlinear Interactions by a Novel Tree-Embedded Graphical Model**”, *Pattern Recognition Letters*, Vol. 49(1), 207-213, 2014.
-
-- **[APL]**  Wang, R., **Huang, S**., Li, J. and Chae, J., “**Probing Thyroglobulin in Undiluted Human Serum based on Pattern Recognition and Competitive Adsorption of Proteins**”, *Applied Physics Letters*, Vol. 105 (14), 143703-143705, 2014.
 
 - **[IEEE-PAMI]**  **Huang, S**., Ye, J., Fleisher, A., Chen, K., Reiman, E., Wu, T., and Li, J., “**A Sparse Structure Learning Algorithm for Bayesian Network Identification from High-dimensional Data**”, *IEEE Transactions on Pattern Analysis and Machine Intelligence*, 35(6), 1328-1342, 2013.
 
 - **[IIE]**  **Huang, S**., Li, J., Chen, K., Wu, T., Ye, J., Wu, X., and Li, Y., “**A Transfer Learning Approach for Network Modeling**”, *IIE Transactions*, 44, 915-931, 2012.
 
-- **[IIE]**  **Huang, S**., Li, J., Lamb, G., Schmitt, M., and Fowler, J., “**Multi-data Fusion for Enterprise Quality Improvement by a Multilevel Latent Response Model**”, *IIE Transactions*, 2011.
-
-- **[Lab-on-a-chip]**  Choi, S., **Huang, S**., Li, J. and Chae, J., “**Monitoring Protein Distributions based on Pattern Generated by Protein Adsorption Behavior in a Microfluidic Channel**”, *Lab-on-a-Chip*, 11, 3681-3688, 2011.
-
 - **[NIPS]**  **Huang, S**., Li J., Ye, J., Chen, L., Wu, T., Fleisher, A. and Reiman, E., 2011, “**Identifying Alzheimer’s Disease-Related Brain Regions from Multi-Modality Neuroimaging Data using Sparse Composite Linear Discrimination Analysis**,” *Proceedings of Neural Information Processing Systems Conference (NIPS)*, Dec. 12-17, 2011, Granada, Spain. (invited for oral presentation, paper acceptance rate 4.8%).
 
 - **[KDD]**  **Huang, S**., Li, J., Ye, J., Fleisher, A., Chen, K. and Wu, T., 2011, “**Brain Effective Connectivity Modeling for Alzheimer’s Disease by Sparse Bayesian Network**,” *The 17th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2011)*, Aug. 21-24, 2011, San Diego, USA. (invited for poster presentation, paper acceptance rate 17.5%).
-
-- **[IEEE-Reliability]**  **Huang, S**., Pan, R., and Li, J., “**A Graphical Technique and Penalized Likelihood Method for Identifying and Estimating Infant Failures**,” *IEEE Transactions on Reliability*, 59(4), 650-660, 2010.
-
-- **[IIE]**  Li, J., and **Huang, S**., “**Regression-based Process Monitoring with Consideration of Measurement Errors**,” *IIE Transactions*, 42(2), 146-160, 2009.
 
 - **[NIPS]**  **Huang, S**., Li, J., Sun, L., Ye, J., Chen, K. and Wu, T., 2009, “**Learning Brain Connectivity of Azheimer's Disease from Neuroimaging Data**,” *Proceedings of Neural Information Processing Systems Conference (NIPS)*, Dec. 7-9, 2009, Vancouver, B.C., Canada. (invited for oral presentation, acceptance rate 8%).
 
 <br><br>
 
 ### **Healthcare Applications (Disease Research/Healthcare Management)**
+
+- **[SI]**  Jiang, Z., Ardywibowo, R., **Samareh<sup>1</sup>, A.**, Evans, H., Lober, B., Chang, X. and **Huang, S**., "**A Roadmap for Automatic Surgical Site Infection Detection and Evaluation Using User-Generated Incision Images**", *Surgical Infections*, 2019.
+
+- **[IISE-HSE]**  **Xiao<sup>1</sup>, D.**, Gui, S., Liu, J., Cheng, Y., Qian, X. and **Huang, S**., "**Longitudinal Planning for Personalized Health Management Using Daily Behavioral Data **", *IISE Transactions on Healthcare Systems Engineering*, 2019.
+
+- **[JBI]**  He, K, **Huang, S**. and Qian, X., "**Early Detection and Risk Assessment for Chronic Disease with Irregular Longitudinal Data Analysis**", *Journal of Biomedical Informatics*, 2019.
 
 - **[IISE-HSE]**  **Samareh<sup>1</sup>, A.**, Jin, Y., Wang, Z., Chang, X., **Huang, S**., "**Detect Depression from Communication: How Computer Vision, Signal Processing, and Sentiment Analysis Join Forces**", *IISE Transactions on Healthcare Systems Engineering*, 2019.
 
@@ -112,6 +96,35 @@ title:
 - **[NEUROIMAGE]**  **Huang, S**., Li, J., Sun, Li., Ye, J., Fleisher, A., Wu, T., Chen, K., and Reiman, E., “**Learning Brain Connectivity of Alzheimer’s Disease by Exploratory Graphical Models**,” *NeuroImage*, 50, 935-949, 2011.
 
 
+<br><br>
+
+### **Manufacturing and other Engineering Applications **
+
+- **[IEEE-ASE]**  **Feng<sup>1</sup>, T.**, Qian, X., Liu, K. and **Huang, S.**, "**Dynamic Inspection of Latent Variables in State-Space Systems**", *IEEE Transactions on Automation Science and Engineering*, 2019. 
+
+- **[DS]** Li, M., Wu, Y., **He<sup>1</sup>, Y.**, **Huang, S.** and Nair, A, "**Sparse Inverse Covariance Estimation: A Data Mining Technique to Unravel Holistic Patterns among Business Practices in Firms**", *Decision Science*, 2019. 
+
+- **[PLOS]** Chang, X., Shen, J., Lu, X. and **Huang, S.**, "**Statistical Patterns of Human Mobility in Emerging Bicycle Sharing Systems**", *PLOS ONE*, 2018. 
+
+- **[IEEE-ASE]**  Sun, HY., **Huang, S**. and Ran, J, "**Functional Graphical Models for Manufacturing Process Modeling**", *IEEE Transactions on Automation Science and Engineering*, 2017. 
+
+- **[IIE]**  **Jin<sup>1</sup>, Y.**, **Huang, S.**, Wang, G. and Deng, H., "**Diagnostic Monitoring of Multivariate Process via a LASSO-BN Formulation**", *IIE Transactions*, 2017. 
+
+- **[IEEE-TPS]**  You, M., Liu, B., Byon, E., **Huang, S.**, Jin, J., "**Direction-dependent Power Curve Modeling for Multiple Interacting Wind Turbines**", *IEEE Transactions on Power Systems*, 2017.
+
+- **[SMJ]**  Li, M., **Lin<sup>1</sup>, Y.**, **Huang, S**. and Crossland, C., “**The Use of Sparse Inverse Covariance Estimation for Relationship Detection and Theory Building in Strategic Management**”, *Strategic Management Journal*, Vol. 37 (1), 86-97, 2016.
+
+- **[IEEE-EC]**  Yampikulsakul, N., Byon, E., **Huang, S**. and Sheng, S.W., “**Condition Monitoring of Wind Power System with Non-Parametric Regression Analysis**”, *IEEE Transactions on Energy Conversion*, Vol. 29(2), 288-299, 2014.
+
+- **[APL]**  Wang, R., **Huang, S**., Li, J. and Chae, J., “**Probing Thyroglobulin in Undiluted Human Serum based on Pattern Recognition and Competitive Adsorption of Proteins**”, *Applied Physics Letters*, Vol. 105 (14), 143703-143705, 2014.
+
+- **[IIE]**  **Huang, S**., Li, J., Lamb, G., Schmitt, M., and Fowler, J., “**Multi-data Fusion for Enterprise Quality Improvement by a Multilevel Latent Response Model**”, *IIE Transactions*, 2012.
+
+- **[Lab-on-a-chip]**  Choi, S., **Huang, S**., Li, J. and Chae, J., “**Monitoring Protein Distributions based on Pattern Generated by Protein Adsorption Behavior in a Microfluidic Channel**”, *Lab-on-a-Chip*, 11, 3681-3688, 2011.
+
+- **[IEEE-Reliability]**  **Huang, S**., Pan, R., and Li, J., “**A Graphical Technique and Penalized Likelihood Method for Identifying and Estimating Infant Failures**,” *IEEE Transactions on Reliability*, 59(4), 650-660, 2010.
+
+- **[IIE]**  Li, J., and **Huang, S**., “**Regression-based Process Monitoring with Consideration of Measurement Errors**,” *IIE Transactions*, 42(2), 146-160, 2009.
 
 <br><br>
 
