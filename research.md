@@ -10,7 +10,7 @@ Shuai’s research is driven by challenging data analytics problems, emphasizes 
 
 ___
 
-**Research Thust 1: Basic Research towards Mechanistic Understanding of Complex Biomedical Problems**
+**Research Thust 1: Basic Research towards Mechanistic Understanding of Complex System Problems**
 
 *Examples*
 
@@ -18,7 +18,7 @@ ___
 - Towards mechanistic understanding of type 1 diabetes ([link](https://sites.google.com/site/shuaihuang28/website-builder/thrust-1/t1d))
 
 ___
-**Research Thrust 2: Translation of Basic Research into Medical Decision Making for Better Health Management**
+**Research Thrust 2: Translation of Mechanistic Understanding into Decision Making for Better System Management**
 
 *Examples*
 
