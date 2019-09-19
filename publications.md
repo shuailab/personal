@@ -49,7 +49,7 @@ title:
 
 - **[SI]**  Jiang, Z., Ardywibowo, R., **Samareh<sup>1</sup>, A.**, Evans, H., Lober, B., Chang, X. and **Huang, S**., "**A Roadmap for Automatic Surgical Site Infection Detection and Evaluation Using User-Generated Incision Images**", *Surgical Infections*, 2019.
 
-- **[IISE-HSE]**  **Xiao<sup>1</sup>, D.**, Gui, S., Liu, J., Cheng, Y., Qian, X. and **Huang, S**., "**Longitudinal Planning for Personalized Health Management Using Daily Behavioral Data **", *IISE Transactions on Healthcare Systems Engineering*, 2019.
+- **[IISE-HSE]**  **Xiao<sup>1</sup>, D.**, Gui, S., Liu, J., Cheng, Y., Qian, X. and **Huang, S**., "**Longitudinal Planning for Personalized Health Management Using Daily Behavioral Data**", *IISE Transactions on Healthcare Systems Engineering*, 2019.
 
 - **[JBI]**  He, K, **Huang, S**. and Qian, X., "**Early Detection and Risk Assessment for Chronic Disease with Irregular Longitudinal Data Analysis**", *Journal of Biomedical Informatics*, 2019.
 
