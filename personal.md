@@ -70,7 +70,7 @@ ___
 
 <img src='./images/Wallace fall.JPG' alt='portrait' style="width:30%" align="center"/>
 
-*Horses around the corner* 
+*Horses!* 
 
 <img src='./images/Horse in the neiborhood.JPG' alt='portrait' style="width:30%" align="center"/>
 
