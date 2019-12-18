@@ -43,3 +43,5 @@ title:
 
 - Borui Li (Developer of UW-CHI app)
 - Eric Kammers (Participant of NSF REU)
+- Tianyi Wang
+- Fan Xu
