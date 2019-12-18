@@ -5,16 +5,10 @@ title: PERSONAL
 **Writing** has always been my passion. Not sure since when, but probably could be traced back to the early days, when words suddenly become shinly and jingling, just like in any child's mind, who later finds oneself in this hard-to-explain-why-write writing business. The cause is a puzzle as well as a solution: writing and experience simply becomes one thing. 
 
 
-Language is a miracle, the same as **math**. One could love to write in order to understand. And one could find great joy when writing with others. To write something together is to have a journey together: we communicate complex ideas that are not easy to get their forms and expressions right in oratory expressions; we reach a common understanding between different disciplines; we see things differently, but now strive for the same direction in parallel ... 
+Language is a miracle, the same as **math**. One could love to write in order to understand. And one could find great joy when writing with others. To write something together is to have a journey together: we communicate complex ideas that are not easy to get their forms and expressions right in oratory expressions; we reach a common understanding between different disciplines; we see things differently, but now strive for the same direction in parallel. And you may say the peer-reviewed process in our academic world is a larger concept of this joint writing process.
 
 
-(Yep, you may say, the peer-reviewed process in our academic world, is a larger concept of this joint writing process. Seeing tons of rejection letters is just normal, what else could we say? Writing is still a great joy.)
-
-
-Besides that, I like **hiking, biking, skating, or sometimes just walking** ... It is a great fun to hike/walk together with family and friends, in those grand pacific northwest forests and snow mountains, Arizona's immerse desert landscape, and Florida's beautiful glades... and many other places where I have not lived in but just visited for a short stay although was no less impressed ...
-
-
-So, if you share the same passion, or you'd like to introduce me to a new thing, let me know.
+Besides that, I like **hiking, biking, skating, or sometimes just walking**. It is a great fun to hike/walk together with family and friends, in those grand pacific northwest forests and snow mountains, Arizona's immerse desert landscape, and Florida's beautiful glades...and many other places where I have not lived in but just visited for a short stay although was no less impressed. So, if you share the same passion, or you'd like to introduce me to a new thing, let me know.
 
 
 <br><br>
@@ -42,19 +36,19 @@ ___
 
 <img src='./images/Bridal Veil Falls.JPG' alt='portrait' style="width:30%" align="center"/>
 
-*Lake cushman*
+*Lake Cushman*
 
 <img src='./images/Lake cushman in WA.JPG' alt='portrait' style="width:30%" align="center"/>
 
-*Lake Serena*
+*Lake Serene*
 
 <img src='./images/Lake Serena.JPG' alt='portrait' style="width:30%" align="center"/>
 
-*Tiger Mount*
+*Tiger Mountain*
 
 <img src='./images/Mount Si.JPG' alt='portrait' style="width:30%" align="center"/>
 
-*Rattlesnake Mount*
+*Rattlesnake Mountain*
 
 <img src='./images/Rattlesnake Mount.JPG' alt='portrait' style="width:30%" align="center"/>
 
@@ -76,7 +70,7 @@ ___
 
 <img src='./images/Wallace fall.JPG' alt='portrait' style="width:30%" align="center"/>
 
-*Horses in the neighborhood* 
+*Horses around the corner* 
 
 <img src='./images/Horse in the neiborhood.JPG' alt='portrait' style="width:30%" align="center"/>
 
@@ -121,7 +115,7 @@ ___
 
 <img src='./images/Arizona Cactus.jpg' alt='portrait' style="width:30%" align="center"/>
 
-*Superstition Mount*
+*Superstition Mountain*
 
 <img src='./images/Superstition Mount.jpg' alt='portrait' style="width:30%" align="center"/>
 <img src='./images/Superstition Mount 2.jpg' alt='portrait' style="width:30%" align="center"/>
@@ -133,21 +127,6 @@ ___
 ___
 
 
-**Family Portrait**
-
-*Bobo is our dog*
-
-<img src='./images/Bobo Portrait 1.JPG' alt='portrait' style="width:30%" align="center"/>
-<img src='./images/Bobo Portrait 2.JPG' alt='portrait' style="width:30%" align="center"/>
-<img src='./images/Bobo in the car.JPG' alt='portrait' style="width:30%" align="center"/>
-
-*Family portrait (by my father-in-law)*
-
-<img src='./images/Family portrait by my father-in-law.JPG' alt='portrait' style="width:30%" align="center"/>
-
-<br><br>
-
-___
 
 
 **A half-hearted gardener**
