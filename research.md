@@ -10,7 +10,7 @@ Shuai’s research is driven by challenging data analytics problems, emphasizes 
 
 ___
 
-**Research Thust 1: Basic Research towards Mechanistic Understanding of Complex System Problems**
+**Research Thrust 1: Basic Research towards Mechanistic Understanding of Complex System Problems**
 
 *Examples*
 
