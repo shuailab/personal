@@ -43,7 +43,7 @@ title:
 	* Data Scientist Intern at Instacart
 	* Outstanding Female Engineer Award, Society of Women Engineers (SWE)'s at University of Washington
 	* Graduate School's Fellowship for Excellence and Innovation Top Scholar Award at UW
-	* Fisrt position: Research Scientist at Convoy
+	* First position: Research Scientist at Convoy
 
 **Master students**
 
