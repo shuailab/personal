@@ -3,7 +3,7 @@ title:
 ---
 ### **Machine Learning/Analytics/Decision Making**
 
-- **[ICPR]** Shakur, A, Qian, X., Wang, Z., Mortazavi, B. and **Huang, S**., “**GPSRL: Learning Semi-Parametric Bayesian Survival Rule Lists from Heterogeneous Patient
+- **[ICPR]** **Shakur<sup>1</sup>, A.**, Qian, X., Wang, Z., Mortazavi, B. and **Huang, S**., “**GPSRL: Learning Semi-Parametric Bayesian Survival Rule Lists from Heterogeneous Patient
 Data**”, *The 25th International Conference on Pattern Recognition (ICPR2020)*, 2020.
 
 - **[IEEE-TNNL]**  Yang, Y., **Huang, S.**, Huang, W. and Chang, X., "**Privacy Preserving Cost-Sensitive Learning**", *IEEE Transactions on Neural Networks and Learning Systems*, 2020. 
