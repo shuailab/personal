@@ -3,6 +3,9 @@ title:
 ---
 ### **Machine Learning/Analytics/Decision Making**
 
+- **[ICPR]** Shakur, A, Qian, X., Wang, Z., Mortazavi, B. and **Huang, S**., “**GPSRL: Learning Semi-Parametric Bayesian Survival Rule Lists from Heterogeneous Patient
+Data**”, *The 25th International Conference on Pattern Recognition (ICPR2020)*, 2020.
+
 - **[IEEE-TNNL]**  Yang, Y., **Huang, S.**, Huang, W. and Chang, X., "**Privacy Preserving Cost-Sensitive Learning**", *IEEE Transactions on Neural Networks and Learning Systems*, 2020. 
 
 - **[AISTAT]** Huo, Z., PakBin, A., Chen, X., Hurley, N., Yuan, Y., Qian, X., Wang, Z., **Huang, S**. and Mortazavi, B., “**Uncertainty Quantification for Deep Context-Aware Mobile Activity Recognition and Unknown Context Discovery**”, *The 23rd International Conference on Artificial Intelligence and Statistics (AISTAT 2020)*, PMLR 108:3894-3904, 2020.
@@ -106,6 +109,7 @@ title:
 
 ### **Manufacturing and other Engineering Areas**
 
+- **[TRC]**  **Zhu<sup>1</sup>, X.**, **Feng<sup>1</sup>, J.**, **Huang, S.**, and Chen, C., "**An Online Updating Method for Time-Varying Preference Learning**", *Transportation Research Part C: Emerging Technologies*, 2020. 
 
 - **[TRC]**  **Feng<sup>1</sup>, J.**, **Huang, S.**, and Chen, C., "**Modeling user interaction with app-based reward system: A graphical model approach integrated with max-margin learning**", *Transportation Research Part C: Emerging Technologies*, 2020. 
 
