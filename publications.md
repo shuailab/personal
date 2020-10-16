@@ -146,7 +146,9 @@ Data**”, *The 25th International Conference on Pattern Recognition (ICPR2020)*
 - National Science Foundation (CMMI-1505260, CMMI-1536398, CCF-1715027)
 - Juvenile Diabetes Research Foundation
 - NIH
-- DARPA 
+- DARPA WASH; DARPA D3M 
+- AFOSR DDDAS
+- USDOT (RITA)
 - Byrd Alzheimer's Institute 
 - Royalty Research Foundation
 - Helmsley Foundation
