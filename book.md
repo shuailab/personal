@@ -2,7 +2,10 @@
 title: DATA ANALYTICS: A SMALL DATA APPROACH
 ---
 
-<img src='./images/analyticsbook.png' alt='portrait' style="width:80%" align="center"/>
+<p align="center">
+  <img src='./images/analyticsbook.png' alt='book' style="width:80%"/>
+</p>
+
 
 
 This book is suitable for an introductory data analytics course to help students understand some main statistical learning models. It has many small datasets to guide students to work out pencil solutions of the models and then compare with results obtained from established R packages. Also, as data science practice is a process that should be told as a story, in this book there are many course materials about exploratory data analysis, residual analysis, and flowcharts to develop and validate models and data pipelines.
