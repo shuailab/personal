@@ -1,5 +1,5 @@
 ---
-title: DATA ANALYTICS: A SMALL DATA APPROACH
+title: DATA ANALYTICS
 ---
 
 <p align="center">
