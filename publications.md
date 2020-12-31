@@ -3,8 +3,9 @@ title:
 ---
 ### **Machine Learning/Analytics/Decision Making**
 
-- **[ICPR]** **Shakur<sup>1</sup>, A.**, Qian, X., Wang, Z., Mortazavi, B. and **Huang, S**., “**GPSRL: Learning Semi-Parametric Bayesian Survival Rule Lists from Heterogeneous Patient
-Data**”, *The 25th International Conference on Pattern Recognition (ICPR2020)*, 2020.
+- **[IEEE-ASE]** **Feng<sup>1</sup>, J.**,  **Zhu<sup>1</sup>, X.**, Wang, F., **Huang, S.**, and Chen, C., "**A Learning Framework for Personalized Random Utility Maximization (RUM) Modeling of User Behavior**", *IEEE Transactions on Automation Science and Engineering*, 2020.
+
+- **[ICPR]** **Shakur<sup>1</sup>, A.**, Qian, X., Wang, Z., Mortazavi, B. and **Huang, S**., “**GPSRL: Learning Semi-Parametric Bayesian Survival Rule Lists from Heterogeneous Patient Data**”, *The 25th International Conference on Pattern Recognition (ICPR2020)*, 2020.
 
 - **[IEEE-TNNL]**  Yang, Y., **Huang, S.**, Huang, W. and Chang, X., "**Privacy Preserving Cost-Sensitive Learning**", *IEEE Transactions on Neural Networks and Learning Systems*, 2020. 
 
