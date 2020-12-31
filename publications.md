@@ -144,7 +144,7 @@ title:
 
 ### **Acknowledgment for Funding Support**
 
-- National Science Foundation (CMMI-1505260, CMMI-1536398, CCF-1715027)
+- National Science Foundation (CMMI-1505260, CMMI-1536398, CMMI-1824623, CCF-1715027)
 - Juvenile Diabetes Research Foundation
 - NIH
 - DARPA WASH; DARPA D3M 
