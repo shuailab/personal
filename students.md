@@ -10,9 +10,9 @@ If you didn't hear back from me about your inquiry --- I apologize but I may not
 **PhD students (current)**
 
 - Jingshuo Feng 
+- Feng Lin
 - Wengeng Pan
 - Ameer Hamza Shakur
-- Xi Zhu (co-advised with Dr. Cynthia Chen)
 
 **PhD students (graduated)**
 
@@ -35,6 +35,12 @@ If you didn't hear back from me about your inquiry --- I apologize but I may not
 	* First position: Assistant Professor, Department of Industrial Engineering, University of Houston
 - Yazhuo Liu (co-advised with Dr. Jose Zayas-Castro, graduated in 2015 at USF)
 	* Dissertation topic: "Patient Population, Clinical Association, and Systems Efficiency in Healthcare Delivery System"
+- Aven Samareh (2017-2019)
+	* Dissertation topic: "Contemporary Health Monitoring and Biomarker Discovery by Integration of Big Patient Data and Disease Knowledge"
+	* Data Scientist Intern at Instacart
+	* Outstanding Female Engineer Award, Society of Women Engineers (SWE)'s at University of Washington
+	* Graduate School's Fellowship for Excellence and Innovation Top Scholar Award at UW
+	* First position: Research Scientist at Convoy
 - Cao Xiao (co-advised with Dr. W. Art Chaovalitwongse, graduated in 2016 at UW)
 	* Dissertation topic: "Optimization and Machine Learning Methods for Medical and Healthcare Applications"
 	* Research Intern at IBM T.J. Watson Research Center
@@ -43,12 +49,8 @@ If you didn't hear back from me about your inquiry --- I apologize but I may not
 	* Graduate School's Fellowship for Excellence and Innovation Top Scholar Award at UW
 	* First position: Research Scientist at IBM T.J. Watson Research Center
 	* Current position: Director of Machine Learning. Analytics Center of Excellence, IQVIA
-- Aven Samareh (2017-2019)
-	* Dissertation topic: "Contemporary Health Monitoring and Biomarker Discovery by Integration of Big Patient Data and Disease Knowledge"
-	* Data Scientist Intern at Instacart
-	* Outstanding Female Engineer Award, Society of Women Engineers (SWE)'s at University of Washington
-	* Graduate School's Fellowship for Excellence and Innovation Top Scholar Award at UW
-	* First position: Research Scientist at Convoy
+- Xi Zhu (co-advised with Dr. Cynthia Chen, graduated in 2020 at UW)
+	* Dissertation topic: "Dissertation topic: Individual Preference Learning with Collaborative Learning Framework"
 
 **Master students**
 
