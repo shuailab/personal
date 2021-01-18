@@ -50,7 +50,7 @@ If you didn't hear back from me about your inquiry --- I apologize but I may not
 	* First position: Research Scientist at IBM T.J. Watson Research Center
 	* Current position: Director of Machine Learning. Analytics Center of Excellence, IQVIA
 - Xi Zhu (co-advised with Dr. Cynthia Chen, graduated in 2020 at UW)
-	* Dissertation topic: "Dissertation topic: Individual Preference Learning with Collaborative Learning Framework"
+	* Dissertation topic: "Individual Preference Learning with Collaborative Learning Framework"
 
 **Master students**
 
