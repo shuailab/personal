@@ -9,6 +9,7 @@ title: DATA ANALYTICS
 
 
 - Suitable for an introductory data analytics courses. 
+- Book content <td><a href="./images/book_content.pdf">here (PDF)</a></td>.
 - Many small datasets to guide students to work out pencil solutions and then compare with results obtained from established R packages. 
 - Codes (R and Python) and datasets available at [github](https://github.com/analyticsbook/book).
 - A draft of the book could be downloaded [here](http://analytics.shuaihuang.info/), together with lecture notes and R codes. 
