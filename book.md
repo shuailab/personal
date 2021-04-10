@@ -8,7 +8,7 @@ title: DATA ANALYTICS
 
 
 
-- Suitable for an introductory data analytics courses. 
+- Suitable for introductory data analytics courses. 
 - Free online version [here](https://analyticsbook.github.io/).
 - Many small datasets to guide students to work out pencil solutions and then compare with results obtained from established R packages. 
 - Codes (R and Python) and datasets available at [github](https://github.com/analyticsbook/book).
