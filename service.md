@@ -1,9 +1,16 @@
 ---
 title:
 ---
+### **Society Activities**
+- Elected as Board Member in Quality Control and Reliability Engineering Division of IIE, 2015~2017
+- Chair, Best Student Paper Competition in the Quality Control and Reliability Engineering (QCRE) Division of ISERC Annual Conference 2015
+- Elected as Council Member in Data Mining Subdivision of INFORMS, 2013~2015
+- Newsletter Editor in the Quality, Statistics and Reliability subdivision of INFORMS, 2014~2016
+- Judge of Best Student Paper Competition in Data Mining Subdivision of INFORMS Annual Conferences, and Best Student Paper Competition in the Quality Control and Reliability Engineering (QCRE) Division of ISERC Annual Conference, 2012 - present
+
 
 ### **Conference Organizing Activities**
-- Co-Chair for the International Workshop on Biomedical Informatics with Optimization and Machine Learning, in conjunction with the International Joint Conference on Artificial Intelligence (IJCAI) in 2016, 2017, 2018, 2019, 2020.
+- Co-Chair for the International Workshop on Biomedical Informatics with Optimization and Machine Learning, in conjunction with the International Joint Conference on Artificial Intelligence (IJCAI) in [2016](https://www.springeropen.com/collections/bioml), [2017](https://www.springeropen.com/collections/bioml2017), [2018](ttps://www.tandfonline.com/toc/uhse21/9/3?nav=tocList), [2019](ttps://www.tandfonline.com/toc/uhse21/9/3?nav=tocList), [2020](https://sites.google.com/view/ijcai-boom2020/)
 - Co-Chair (with Dr. Mustafa Baydogan and Dr. Asil Oztekin) for the Data Mining and Analytics Workshop at INFORMS 2015
 - Cluster Chair for Data Mining Cluster at INFORMS Health Care 2015
 - Organizer of the BigBrain Mini-Symposium at the SIAM International Conference on Data Mining (SDM 2015)
@@ -27,13 +34,6 @@ title:
 - Institute for Operation Research and the Management Sciences (INFORMS)
 - American Society for Quality (ASQ)
 - Institute of Industrial Engineers (IIE)
-
-### **Society Activities**
-- Elected as Board Member in Quality Control and Reliability Engineering Division of IIE, 2015~2017
-- Chair, Best Student Paper Competition in the Quality Control and Reliability Engineering (QCRE) Division of ISERC Annual Conference 2015
-- Elected as Council Member in Data Mining Subdivision of INFORMS, 2013~2015
-- Newsletter Editor in the Quality, Statistics and Reliability subdivision of INFORMS, 2014~2016
-- Judge of Best Student Paper Competition in Data Mining Subdivision of INFORMS Annual Conferences, and Best Student Paper Competition in the Quality Control and Reliability Engineering (QCRE) Division of ISERC Annual Conference, 2012 - present
 
 
 ### **Honors and Awards**
