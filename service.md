@@ -10,7 +10,7 @@ title:
 
 
 ### **Conference Organizing Activities**
-- Co-Chair for the International Workshop on Biomedical Informatics with Optimization and Machine Learning, in conjunction with the International Joint Conference on Artificial Intelligence (IJCAI) in [2016](https://www.springeropen.com/collections/bioml), [2017](https://www.springeropen.com/collections/bioml2017), [2018](ttps://www.tandfonline.com/toc/uhse21/9/3?nav=tocList), [2019](ttps://www.tandfonline.com/toc/uhse21/9/3?nav=tocList), [2020](https://sites.google.com/view/ijcai-boom2020/)
+- Co-Chair for the International Workshop on Biomedical Informatics with Optimization and Machine Learning, in conjunction with the International Joint Conference on Artificial Intelligence (IJCAI) in [2016](https://www.springeropen.com/collections/bioml), [2017](https://www.springeropen.com/collections/bioml2017), [2018](https://www.tandfonline.com/toc/uhse21/9/3?nav=tocList), [2019](https://www.tandfonline.com/toc/uhse21/9/3?nav=tocList), [2020](https://sites.google.com/view/ijcai-boom2020/)
 - Co-Chair (with Dr. Mustafa Baydogan and Dr. Asil Oztekin) for the Data Mining and Analytics Workshop at INFORMS 2015
 - Cluster Chair for Data Mining Cluster at INFORMS Health Care 2015
 - Organizer of the BigBrain Mini-Symposium at the SIAM International Conference on Data Mining (SDM 2015)
