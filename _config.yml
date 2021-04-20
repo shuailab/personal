@@ -14,8 +14,11 @@ links:
   - name:         Research
     url:          /research
     external:     false
-  - name:         Publications
+  - name:         Paper
     url:          /publications
+    external:     false
+  - name:         Book
+    url:          /Book
     external:     false
   - name:         Teaching
     url:          /teaching
@@ -29,9 +32,7 @@ links:
   - name:         Students
     url:          /students
     external:     false
-  - name:         Book
-    url:          /Book
-    external:     false
+
   
 # ------------ CONFIGURABLE END ------------
 
