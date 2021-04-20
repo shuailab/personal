@@ -29,6 +29,9 @@ links:
   - name:         Students
     url:          /students
     external:     false
+  - name:         Book
+    url:          /Book
+    external:     false
   
 # ------------ CONFIGURABLE END ------------
 
