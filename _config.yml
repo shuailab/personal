@@ -27,7 +27,7 @@ links:
     url:          /service
     external:     false
   - name:         Code
-    url:          /Code
+    url:          /code
     external:     false
   - name:         Students
     url:          /students
