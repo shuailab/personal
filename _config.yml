@@ -26,8 +26,8 @@ links:
   - name:         Service
     url:          /service
     external:     false
-  - name:         Software
-    url:          /software
+  - name:         Code
+    url:          /Code
     external:     false
   - name:         Students
     url:          /students
