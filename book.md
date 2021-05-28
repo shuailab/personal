@@ -3,7 +3,10 @@ title: DATA ANALYTICS
 ---
 
 <p align="center">
-  <img src='./images/analyticsbook.png' alt='book' style="width:70%"/>
+  <img src='./images/book_photo.jpeg' alt='book' style="width:60%"/>
+  <img src='./images/book_photo2.jpeg' alt='book' style="width:60%"/>
+  <img src='./images/book_photo3.jpeg' alt='book' style="width:60%"/>
+  <img src='./images/book_photo4.jpeg' alt='book' style="width:60%"/>
 </p>
 
 
