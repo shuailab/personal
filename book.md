@@ -15,4 +15,5 @@ title: DATA ANALYTICS
 - Free online version [here](http://dataanalyticsbook.info/).
 - Many small datasets to guide students to work out pencil solutions and then compare with results obtained from established R/Python packages. 
 - Codes (R and Python) and datasets available at [github](https://github.com/analyticsbook/book).
+- Solution manual (for instructors) available at [here](https://www.routledge.com/Data-Analytics-A-Small-Data-Approach/Huang-Deng/p/book/9780367609504).   
 - Buy the book [here](https://www.routledge.com/Data-Analytics-A-Small-Data-Approach/Huang-Deng/p/book/9780367609504) or through [Amazon.com](https://www.amazon.com/Data-Analytics-Approach-Chapman-Science/dp/0367609509).
