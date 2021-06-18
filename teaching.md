@@ -4,7 +4,7 @@ title: Teaching
 
 **DATA ANALYTICS** (combined for both undergraduate and graduate students)
 
-- [IND E 498 Special Topics: Data Analytics](http://analytics.shuaihuang.info/)
+- [IND E 427 Data Analytics for Systems Engineering](http://analytics.shuaihuang.info/)
 
 
 **UNDERGRADUATE TEACHING**
