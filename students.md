@@ -26,7 +26,6 @@ If you didn't hear back from me about your inquiry --- I apologize but I may not
 - Mona Haghighi (graduated in 2016, USF)
 	* Dissertation topic: "Rule-based Risk Monitoring Systems for Complex Datasets"
 	* Recipient of the Dissertation Completion Award in 2015
-	* INFORMS Professional Colloquium Travel Award in 2016
 	* First position: Optimization Statistician at Citi
 	* Current position: Senior Data Scientist at Verizon
 - Yan Jin (graduated in 2017)
