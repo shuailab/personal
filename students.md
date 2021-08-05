@@ -9,10 +9,13 @@ If you didn't hear back from me about your inquiry --- I apologize but I may not
 
 **PhD students (current)**
 
-- Jingshuo Feng 
-- Feng Lin
+- Feng Lin 
 - Wengeng Pan
-- Ameer Hamza Shakur
+	* Qualify Exam passed in 02/2021
+- Ameer Hamza Shakur 
+	* General Exam passed in 04/2021
+	* Expect to graduate in summer of 2022
+	* Dissertation topic: "Learning Decision Making Systems for Heterogeneous Longitudinal Survival Data"
 
 **PhD students (graduated)**
 
