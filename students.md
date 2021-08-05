@@ -16,32 +16,36 @@ If you didn't hear back from me about your inquiry --- I apologize but I may not
 
 **PhD students (graduated)**
 
-- Mona Haghighi (graduated in 2016 at USF)
+- Jingshuo Feng (graduated in 2021)
+	* Dissertation topic: "Modeling Heterogeneous User Behavior in Interactive Systems by Graphical Model and Collaborative Learning Framework"
+	* Research Intern in AI Platform at Kuaishou Technology 
+	* Looking for job opportunities at Seattle (<td><a href="./images/JingshuoFeng_resume.pdf">CV</a></td>)
+- Mona Haghighi (graduated in 2016, USF)
 	* Dissertation topic: "Rule-based Risk Monitoring Systems for Complex Datasets"
 	* Recipient of the Dissertation Completion Award in 2015
 	* INFORMS Professional Colloquium Travel Award in 2016
 	* First position: Optimization Statistician at Citi
 	* Current position: Senior Data Scientist at Verizon
-- Yan Jin (2013 - 2017, UW)
+- Yan Jin (graduated in 2017)
 	* Dissertation topic: "Diagnostic Monitoring of High-dimensional Networked Systems"
 	* Finalist of INFORMS QSR 2015 best student paper competition
 	* Decision Science Professional Intern at Walt Disney Parks and Resorts U.S., Inc
 	* First position: Research Scientist at JD.com Research Lab, California, USA
 	* Current position: Machine Learning Engineer at Aibee Inc
-- Ying Lin (2012 - 2017, UW, co-advised with Dr. Shan Liu)
+- Ying Lin (graduated in 2017, co-advised with Dr. Shan Liu)
 	* Dissertation topic: "Large-Scale Personalized Health Surveillance by Collaborative Modeling and Selective Sensing"
 	* The Lee B. Lusted Student Prize from the Society for Medical Decision Making (SMDM) in 2016
 	* Research Intern at NEC Laboratories America, Inc.
 	* First position: Assistant Professor, Department of Industrial Engineering, University of Houston
-- Yazhuo Liu (co-advised with Dr. Jose Zayas-Castro, graduated in 2015 at USF)
+- Yazhuo Liu (graduated in 2015, co-advised with Dr. Jose Zayas-Castro at USF)
 	* Dissertation topic: "Patient Population, Clinical Association, and Systems Efficiency in Healthcare Delivery System"
-- Aven Samareh (2017-2019)
+- Aven Samareh (graduated in 2019)
 	* Dissertation topic: "Contemporary Health Monitoring and Biomarker Discovery by Integration of Big Patient Data and Disease Knowledge"
 	* Data Scientist Intern at Instacart
 	* Outstanding Female Engineer Award, Society of Women Engineers (SWE)'s at University of Washington
 	* Graduate School's Fellowship for Excellence and Innovation Top Scholar Award at UW
 	* First position: Research Scientist at Convoy
-- Cao Xiao (co-advised with Dr. W. Art Chaovalitwongse, graduated in 2016 at UW)
+- Cao Xiao (graduated in 2016, co-advised with Dr. W. Art Chaovalitwongse)
 	* Dissertation topic: "Optimization and Machine Learning Methods for Medical and Healthcare Applications"
 	* Research Intern at IBM T.J. Watson Research Center
 	* Data Scientist Intern at LinkedIn
@@ -49,7 +53,7 @@ If you didn't hear back from me about your inquiry --- I apologize but I may not
 	* Graduate School's Fellowship for Excellence and Innovation Top Scholar Award at UW
 	* First position: Research Scientist at IBM T.J. Watson Research Center
 	* Current position: Director of Machine Learning. Analytics Center of Excellence, IQVIA
-- Xi Zhu (co-advised with Dr. Cynthia Chen, graduated in 2020 at UW)
+- Xi Zhu (graduated in 2020, co-advised with Dr. Cynthia Chen)
 	* Dissertation topic: "Individual Preference Learning with Collaborative Learning Framework"
 
 **Master students**
