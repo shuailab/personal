@@ -3,6 +3,8 @@ title:
 ---
 ### **Machine Learning/Analytics/Decision Making**
 
+- **[JBI]** **Shakur<sup>1</sup>, A.**, **Huang, S**. Qian, X., and Chang, X., "**SURVFIT: Doubly Sparse Rule Learning for Survival Data**", *Journal of Biomedical Informatics*, 2021.
+
 - **[IEEE-ASE]** **Feng<sup>1</sup>, J.**,  **Zhu<sup>1</sup>, X.**, Wang, F., **Huang, S.**, and Chen, C., "**A Learning Framework for Personalized Random Utility Maximization (RUM) Modeling of User Behavior**", *IEEE Transactions on Automation Science and Engineering*, 2020.
 
 - **[ICPR]** **Shakur<sup>1</sup>, A.**, Qian, X., Wang, Z., Mortazavi, B. and **Huang, S**., “**GPSRL: Learning Semi-Parametric Bayesian Survival Rule Lists from Heterogeneous Patient Data**”, *The 25th International Conference on Pattern Recognition (ICPR2020)*, 2020.
