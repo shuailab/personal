@@ -5,7 +5,7 @@ title:
 
 - [SURVFIT](https://github.com/RuleLearning/SURVFIT) [by Ameer Hamza Shakur]
 - [LDT](https://github.com/feng-jings/LDTmodel) [by Jingshuo Feng]
-- [BN-DOE] (https://github.com/jyfeather/bnlearn_expert) [By Yan Jin]
+- [BN-DOE](https://github.com/jyfeather/bnlearn_expert) [by Yan Jin]
 - [SSI-PRED](https://drive.google.com/file/d/0Bx9UoSDt26JANjItR0pvSGZpN28/view?usp=sharing) [by Chuyang Ke]
 - [LASSO-BN](https://drive.google.com/file/d/0Bx9UoSDt26JAcjdzblZTTUo3U3c/view?usp=sharing) [By Yan Jin]
 - [CDM (Collaborative degradation modeling)](https://drive.google.com/file/d/0Bx9UoSDt26JAa0VlaEpxdW96V1E/view?usp=sharing) [By Ying Lin]
