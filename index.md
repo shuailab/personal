@@ -8,4 +8,3 @@ title: About me
 
 To contact him, please send email to the following email address: [shuai.huang.ie@gmail.com](shuai.huang.ie@gmail.com)
 
-*Shuai is taking sabbatical from Sep 2020 - Sep 2021. Email response maybe delayed.* 
