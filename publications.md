@@ -1,7 +1,7 @@
 ---
 title:
 ---
-### **Machine Learning/Analytics/Decision Making**
+### **Machine Learning/Data Analytics**
 
 - **[JBI]** **Shakur<sup>1</sup>, A.**, **Huang, S**. Qian, X., and Chang, X., "**SURVFIT: Doubly Sparse Rule Learning for Survival Data**", *Journal of Biomedical Informatics*, 2021.
 
