@@ -144,14 +144,4 @@ title:
 
 <br><br>
 
-### **Acknowledgment for Funding Support**
 
-- National Science Foundation (CMMI-1505260, CMMI-1536398, CMMI-1824623, CCF-1715027)
-- Juvenile Diabetes Research Foundation
-- NIH
-- DARPA WASH; DARPA D3M 
-- AFOSR DDDAS
-- USDOT (RITA)
-- Byrd Alzheimer's Institute 
-- Royalty Research Foundation
-- Helmsley Foundation
