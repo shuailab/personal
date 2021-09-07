@@ -15,5 +15,5 @@ title:
 
 ### **Web Apps and Online Systems**
 
-- [Brain Functional Connectivity Online Platform](http://brainconnectivity.cc/) [By Yan Jin] (no longer alive)
-- [INSIGHT Automatic Machine Learning System](http://52.88.5.75:9100/) [By Yan Jin and Guan Wang] (no longer alive)
+- [Brain Functional Connectivity Online Platform](http://brainconnectivity.cc/) [By Yan Jin] (expired)
+- [INSIGHT Automatic Machine Learning System](http://52.88.5.75:9100/) [By Yan Jin and Guan Wang] (expired)
