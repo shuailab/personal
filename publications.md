@@ -59,6 +59,8 @@ title:
 
 ### **Healthcare (Disease Research/Healthcare Management)**
 
+- **[JHIR]** Xuan, D., **Huang, S**. and Qian, X., "**Risk Factor Identification in Heterogeneous Disease Progression with L1-Regularized Multi-state Models**", *Journal of Healthcare Informatics Research*, 2021.
+
 - **[SI]**  Jiang, Z., Ardywibowo, R., **Samareh<sup>1</sup>, A.**, Evans, H., Lober, B., Chang, X. and **Huang, S**., "**A Roadmap for Automatic Surgical Site Infection Detection and Evaluation Using User-Generated Incision Images**", *Surgical Infections*, 2019.
 
 - **[IISE-HSE]**  **Xiao<sup>1</sup>, D.**, Gui, S., Liu, J., Cheng, Y., Qian, X. and **Huang, S**., "**Longitudinal Planning for Personalized Health Management Using Daily Behavioral Data**", *IISE Transactions on Healthcare Systems Engineering*, 2019.
