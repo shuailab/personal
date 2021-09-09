@@ -110,7 +110,7 @@ title:
 
 <br><br>
 
-### **Manufacturing and other Engineering Areas**
+### **Manufacturing, Transportation, and other Engineering Areas**
 
 - **[TRC]**  **Zhu<sup>1</sup>, X.**, **Feng<sup>1</sup>, J.**, **Huang, S.**, and Chen, C., "**An Online Updating Method for Time-Varying Preference Learning**", *Transportation Research Part C: Emerging Technologies*, 2020. 
 
