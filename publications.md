@@ -13,8 +13,6 @@ title:
 
 - **[AISTAT]** Huo, Z., PakBin, A., Chen, X., Hurley, N., Yuan, Y., Qian, X., Wang, Z., **Huang, S**. and Mortazavi, B., “**Uncertainty Quantification for Deep Context-Aware Mobile Activity Recognition and Unknown Context Discovery**”, *The 23rd International Conference on Artificial Intelligence and Statistics (AISTAT 2020)*, PMLR 108:3894-3904, 2020.
 
-- **[EJOR]** Wu, Z., **Huang, S**. and Xu, J., "**Multi-stage Optimization Models for Individual Consistency and Group Consensus with Preference Relations**", *European Journal of Operational Research*, 2019. 
-
 - **[AISTAT]** Ardywibowo, R., Zhao, G., Wang, Z., Mortazavi, B., **Huang, S**. and Qian, X., “**Adaptive Activity Monitoring with Uncertainty Quantification in Switching Gaussian Process Models**”, *The 22th International Conference on Artificial Intelligence and Statistics (AISTAT 2019)*, April. 16 -18, 2019, Naha, Okinawa, Japan. (paper acceptance rate 32 %).
 
 - **[IEEE-TNNL]**  Ren, K., Yang, H., Zhao, Y., Chen, W., Xue, M., Miao, H., **Huang, S.**, and Liu, J., "**A Robust AUC Maximization Framework With Simultaneous Outlier Detection and Feature Selection for Positive-Unlabeled Classification**", *IEEE Transactions on Neural Networks and Learning Systems*, 2018. 
@@ -117,6 +115,8 @@ title:
 - **[TRC]**  **Zhu<sup>1</sup>, X.**, **Feng<sup>1</sup>, J.**, **Huang, S.**, and Chen, C., "**An Online Updating Method for Time-Varying Preference Learning**", *Transportation Research Part C: Emerging Technologies*, 2020. 
 
 - **[TRC]**  **Feng<sup>1</sup>, J.**, **Huang, S.**, and Chen, C., "**Modeling user interaction with app-based reward system: A graphical model approach integrated with max-margin learning**", *Transportation Research Part C: Emerging Technologies*, 2020. 
+
+- **[EJOR]** Wu, Z., **Huang, S**. and Xu, J., "**Multi-stage Optimization Models for Individual Consistency and Group Consensus with Preference Relations**", *European Journal of Operational Research*, 2019. 
 
 - **[IEEE-ASE]**  **Feng<sup>1</sup>, T.**, Qian, X., Liu, K. and **Huang, S.**, "**Dynamic Inspection of Latent Variables in State-Space Systems**", *IEEE Transactions on Automation Science and Engineering*, 2019. 
 
