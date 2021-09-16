@@ -147,3 +147,13 @@ title:
 <br><br>
 
 
+### **Honors and Awards**
+- Best Paper Award (First Runner-up), for paper “Optimal Expert Knowledge Elicitation for Bayesian Network Structure Identification”, IEEE Transactions on Automation Science and Engineering, 2019.
+- Award of Merit, Amazon Catalyst, for “Magic Mirror: A Smart Camera that Reads Your Face Everyday”, 2017.
+- Honorable Mention, for paper “High-dimensional Process Monitoring and Change Point Detection using Embedding Distributions in Reproducing Kernel Hilbert Space (RKHS)”, IIE Transactions Focused Issue on Quality and Reliability Engineering Best Applications Paper Award Competition, 2016
+- Feature Article in IIE Magazine, for paper “High-dimensional Process Monitoring and Change Point Detection using Embedding Distributions in Reproducing Kernel Hilbert Space (RKHS)”, Oct. 2014
+- Best Paper Award, IIE Transactions Best Paper – Quality & Reliability Engineering, for “A Transfer Learning Approach for Network Modeling”, 2014
+- Outstanding Graduate Award, School of Computing, Informatics, and Decision Systems Engineering, Arizona State University, 2012
+- University Graduate Fellowship Award, School of Computing, Informatics, and Decision Systems Engineering, Arizona State University, 2012
+- Feature Article in IIE Magazine, for paper “Regression-based Process Monitoring with Consideration of Measurement Errors”, Jan. 2010
+
