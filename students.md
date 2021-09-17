@@ -42,7 +42,7 @@ If you didn't hear back from me about your inquiry --- I apologize but I may not
 - Yazhuo Liu (graduated in 2015, co-advised with Dr. Jose Zayas-Castro at USF)
 	* Dissertation topic: "Patient Population, Clinical Association, and Systems Efficiency in Healthcare Delivery System"
 - Aven Samareh (graduated in 2019)
-	* Dissertation topic: "Contemporary Health Monitoring and Biomarker Discovery by Integration of Big Patient Data and Disease Knowledge"
+	* Dissertation topic: "Contemporary Health Monitoring and Biomarker Discovery by Integration of Patient Data and Disease Knowledge"
 	* Data Scientist Intern at Instacart
 	* Outstanding Female Engineer Award, Society of Women Engineers (SWE)'s at University of Washington
 	* Graduate School's Fellowship for Excellence and Innovation Top Scholar Award at UW
