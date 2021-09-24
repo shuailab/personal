@@ -30,10 +30,10 @@ ___
 
 *Examples*
 
-- Network modeling & learning, monitoring & diagnosis, sensing & control (link)
-- High-dimensional statistical learning and data analysis (link)
-- Quality control of high-dimensional systems (link)
-- Prognostics and health management (link)
+- Network modeling & learning, monitoring & diagnosis, sensing & control 
+- High-dimensional statistical learning and data analysis 
+- Quality control of high-dimensional systems 
+- Prognostics and health management 
 
 
 
