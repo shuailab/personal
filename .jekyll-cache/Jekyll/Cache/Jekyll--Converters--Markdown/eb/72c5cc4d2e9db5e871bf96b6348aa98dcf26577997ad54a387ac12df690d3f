@@ -1,0 +1,235 @@
+I"�_<h3 id="machine-learningdata-analytics"><strong>Machine Learning/Data Analytics</strong></h3>
+
+<ul>
+  <li>
+    <p><strong>[SC]</strong> Xuan, D., <strong>Huang, S</strong>. and Qian, X., “<strong>Penalized Cox’s Proportional Hazards Model for High-dimensional Survival Data with Grouped Predictors</strong>”, <em>Statistics and Computing</em>, 2021.</p>
+  </li>
+  <li>
+    <p><strong>[JBI]</strong> <strong>Shakur<sup>1</sup>, A.</strong>, <strong>Huang, S</strong>. Qian, X., and Chang, X., “<strong>SURVFIT: Doubly Sparse Rule Learning for Survival Data</strong>”, <em>Journal of Biomedical Informatics</em>, 2021.</p>
+  </li>
+  <li>
+    <p><strong>[IEEE-ASE]</strong> <strong>Feng<sup>1</sup>, J.</strong>,  <strong>Zhu<sup>1</sup>, X.</strong>, Wang, F., <strong>Huang, S.</strong>, and Chen, C., “<strong>A Learning Framework for Personalized Random Utility Maximization (RUM) Modeling of User Behavior</strong>”, <em>IEEE Transactions on Automation Science and Engineering</em>, 2021.</p>
+  </li>
+  <li>
+    <p><strong>[ICPR]</strong> <strong>Shakur<sup>1</sup>, A.</strong>, Qian, X., Wang, Z., Mortazavi, B. and <strong>Huang, S</strong>., “<strong>GPSRL: Learning Semi-Parametric Bayesian Survival Rule Lists from Heterogeneous Patient Data</strong>”, <em>The 25th International Conference on Pattern Recognition (ICPR2020)</em>, 2020.</p>
+  </li>
+  <li>
+    <p><strong>[IEEE-TNNL]</strong>  Yang, Y., <strong>Huang, S.</strong>, Huang, W. and Chang, X., “<strong>Privacy Preserving Cost-Sensitive Learning</strong>”, <em>IEEE Transactions on Neural Networks and Learning Systems</em>, 2020.</p>
+  </li>
+  <li>
+    <p><strong>[AISTAT]</strong> Huo, Z., PakBin, A., Chen, X., Hurley, N., Yuan, Y., Qian, X., Wang, Z., <strong>Huang, S</strong>. and Mortazavi, B., “<strong>Uncertainty Quantification for Deep Context-Aware Mobile Activity Recognition and Unknown Context Discovery</strong>”, <em>The 23rd International Conference on Artificial Intelligence and Statistics (AISTAT 2020)</em>, PMLR 108:3894-3904, 2020.</p>
+  </li>
+  <li>
+    <p><strong>[AISTAT]</strong> Ardywibowo, R., Zhao, G., Wang, Z., Mortazavi, B., <strong>Huang, S</strong>. and Qian, X., “<strong>Adaptive Activity Monitoring with Uncertainty Quantification in Switching Gaussian Process Models</strong>”, <em>The 22th International Conference on Artificial Intelligence and Statistics (AISTAT 2019)</em>, April. 16 -18, 2019, Naha, Okinawa, Japan. (paper acceptance rate 32 %).</p>
+  </li>
+  <li>
+    <p><strong>[IEEE-TNNL]</strong>  Ren, K., Yang, H., Zhao, Y., Chen, W., Xue, M., Miao, H., <strong>Huang, S.</strong>, and Liu, J., “<strong>A Robust AUC Maximization Framework With Simultaneous Outlier Detection and Feature Selection for Positive-Unlabeled Classification</strong>”, <em>IEEE Transactions on Neural Networks and Learning Systems</em>, 2018.</p>
+  </li>
+  <li>
+    <p><strong>[IIE]</strong> <strong>Lin<sup>1</sup>, Y.</strong>,  Liu, S. and <strong>Huang, S</strong>., “<strong>Selective Sensing of A Heterogeneous Population of Units with Dynamic Health Conditions</strong>”, <em>IIE Transactions</em>, 2018.</p>
+  </li>
+  <li>
+    <p><strong>[IEEE-PAMI]</strong>  Ren, S., <strong>Huang, S.</strong>, Ye, J. and X, Qian., “<strong>Safe Feature Screening for Generalized LASSO</strong>”, <em>IEEE Transactions on Pattern Analysis and Machine Intelligence</em>, 2018.</p>
+  </li>
+  <li>
+    <p><strong>[IEEE-Reliability]</strong>  <strong>Lin<sup>1</sup>, Y.</strong>, Liu, K., Byon, E., X, Qian., Liu, S. and <strong>Huang, S.</strong>, “<strong>A Collaborative Learning Framework for Estimating Many Individualized Regression Models in a Heterogeneous Population</strong>”, <em>IEEE Transactions on Reliability</em>, 2017.</p>
+  </li>
+  <li>
+    <p><strong>[IEEE-ASE]</strong>  <strong>Xiao<sup>1</sup>, C.</strong>, <strong>Jin<sup>1</sup>, Y.</strong>, Liu, J., Zeng, B. and <strong>Huang, S.</strong>, “<strong>Optimal Expert Knowledge Elicitation for Bayesian Network Structure Identification</strong>”, <em>IEEE Transactions on Automation Science and Engineering</em>, 2018.</p>
+  </li>
+  <li>
+    <p><strong>[IEEE-TIP]</strong>  Lu, W., Cheng, Y., <strong>Xiao<sup>1</sup>, C.</strong>, Chang, S., <strong>Huang, S</strong>., Liang, B. and Huang, T. “<strong>Unsupervised Sequential Outlier Detection with Deep Architectures</strong>”, <em>IEEE Transactions on Image Processing</em>, 2017.</p>
+  </li>
+  <li>
+    <p><strong>[SDM]</strong>  Nie, Z., Lin, B.,  <strong>Huang, S</strong>., Ramakrishnan, N., Fan, W. and Ye, J. “<strong>Pruning Decision Trees via Max-Heap Projection</strong>”, <em>The SIAM International Conference on Data Mining (SDM 2017)</em>, Apr. 27 – Apr. 29, 2017, Houston, TX. (paper acceptance rate &lt; 25 %).</p>
+  </li>
+  <li>
+    <p><strong>[IJCAI]</strong>  Wang, Z., <strong>Huang, S</strong>., Zhou, J. and Huang, T. “<strong>Doubly Sparsifying Network</strong>”, <em>Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence (IJCAI-17)</em>, August 19-25, 2017, Melbourne, Australia. (paper acceptance rate = 25.9% %)</p>
+  </li>
+  <li>
+    <p><strong>[CVPR]</strong>  Yang, H., Huang, Y., Tran, L., Liu, J. and <strong>Huang, S</strong>. 2016, “<strong>On Benefits of Diversity Selection via Bilevel Exclusive Sparsity</strong>”,  <em>Conference on Computer Vision and Pattern Recognition (CVPR 2016)</em>, June 27 – June 30, Las Vegas, Nevada, 2016. (paper acceptance rate 29.9 %)</p>
+  </li>
+  <li>
+    <p><strong>[IEEE-ASE]</strong>  Liu, K. and <strong>Huang, S</strong>., “<strong>Integration of Data Fusion Methodology with Degradation Modeling Process to Improve Prognostics</strong>”, <em>IEEE Transactions on Automation Science and Engineering</em>, Vol. 13 (1), 344-354, 2016.</p>
+  </li>
+  <li>
+    <p><strong>[SDM]</strong>  <strong>Lin<sup>1</sup>, Y.</strong>, Liu, K., Byon, E., Qian, X., <strong>Huang, S</strong>., 2015, “<strong>Domain-Knowledge Driven Cognitive Degradation Modeling for Alzheimer’s Disease</strong>”, <em>The SIAM International Conference on Data Mining (SDM 2015)</em>, Apr. 30 – May 2, 2015, Vancouver, CA. (invited for poster presentation, paper acceptance rate &lt; 25 %).</p>
+  </li>
+  <li>
+    <p><strong>[AISTAT]</strong>  Ren, S., <strong>Huang, S</strong>., Papademetris, X., Onofrey, J. and Qian, X., 2015, “<strong>A Scalable Algorithm for Structured Kernel Feature Selection</strong>”, <em>The 18th International Conference on Artificial Intelligence and Statistics (AISTAT 2015)</em>, May. 9 -12, 2015, San Diego, USA. (invited for oral presentation, paper acceptance rate 6 %).</p>
+  </li>
+  <li>
+    <p><strong>[IIE]</strong>  <strong>Huang, S</strong>., Kong, Z.Y. and Huang, W.Z., “<strong>High-Dimensional Process Monitoring and Change Point Detection Using Embedding Distributions in Reproducing Kernel Hilbert Space (RKHS)</strong>”, <em>IIE Transactions</em>, Vol. 46 (10), 999-1016, 2014.</p>
+  </li>
+  <li>
+    <p><strong>[PRL]</strong>  <strong>Liu<sup>1</sup>, Y.</strong>, Fabri, P., Zayas-Castro, J. and <strong>Huang, S</strong>., “<strong>Learning High-dimensional Networks with Nonlinear Interactions by a Novel Tree-Embedded Graphical Model</strong>”, <em>Pattern Recognition Letters</em>, Vol. 49(1), 207-213, 2014.</p>
+  </li>
+  <li>
+    <p><strong>[IEEE-PAMI]</strong>  <strong>Huang, S</strong>., Ye, J., Fleisher, A., Chen, K., Reiman, E., Wu, T., and Li, J., “<strong>A Sparse Structure Learning Algorithm for Bayesian Network Identification from High-dimensional Data</strong>”, <em>IEEE Transactions on Pattern Analysis and Machine Intelligence</em>, 35(6), 1328-1342, 2013.</p>
+  </li>
+  <li>
+    <p><strong>[IIE]</strong>  <strong>Huang, S</strong>., Li, J., Chen, K., Wu, T., Ye, J., Wu, X., and Li, Y., “<strong>A Transfer Learning Approach for Network Modeling</strong>”, <em>IIE Transactions</em>, 44, 915-931, 2012.</p>
+  </li>
+  <li>
+    <p><strong>[NIPS]</strong>  <strong>Huang, S</strong>., Li J., Ye, J., Chen, L., Wu, T., Fleisher, A. and Reiman, E., 2011, “<strong>Identifying Alzheimer’s Disease-Related Brain Regions from Multi-Modality Neuroimaging Data using Sparse Composite Linear Discrimination Analysis</strong>,” <em>Proceedings of Neural Information Processing Systems Conference (NIPS)</em>, Dec. 12-17, 2011, Granada, Spain. (invited for oral presentation, paper acceptance rate 4.8%).</p>
+  </li>
+  <li>
+    <p><strong>[KDD]</strong>  <strong>Huang, S</strong>., Li, J., Ye, J., Fleisher, A., Chen, K. and Wu, T., 2011, “<strong>Brain Effective Connectivity Modeling for Alzheimer’s Disease by Sparse Bayesian Network</strong>,” <em>The 17th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2011)</em>, Aug. 21-24, 2011, San Diego, USA. (invited for poster presentation, paper acceptance rate 17.5%).</p>
+  </li>
+  <li>
+    <p><strong>[NIPS]</strong>  <strong>Huang, S</strong>., Li, J., Sun, L., Ye, J., Chen, K. and Wu, T., 2009, “<strong>Learning Brain Connectivity of Azheimer’s Disease from Neuroimaging Data</strong>,” <em>Proceedings of Neural Information Processing Systems Conference (NIPS)</em>, Dec. 7-9, 2009, Vancouver, B.C., Canada. (invited for oral presentation, acceptance rate 8%).</p>
+  </li>
+</ul>
+
+<p><br /><br /></p>
+
+<h3 id="healthcare-disease-researchhealthcare-management"><strong>Healthcare (Disease Research/Healthcare Management)</strong></h3>
+
+<ul>
+  <li>
+    <p><strong>[JHIR]</strong> Xuan, D., <strong>Huang, S</strong>. and Qian, X., “<strong>Risk Factor Identification in Heterogeneous Disease Progression with L1-Regularized Multi-state Models</strong>”, <em>Journal of Healthcare Informatics Research</em>, 2021.</p>
+  </li>
+  <li>
+    <p><strong>[SI]</strong>  Jiang, Z., Ardywibowo, R., <strong>Samareh<sup>1</sup>, A.</strong>, Evans, H., Lober, B., Chang, X. and <strong>Huang, S</strong>., “<strong>A Roadmap for Automatic Surgical Site Infection Detection and Evaluation Using User-Generated Incision Images</strong>”, <em>Surgical Infections</em>, 2019.</p>
+  </li>
+  <li>
+    <p><strong>[IISE-HSE]</strong>  <strong>Xiao<sup>1</sup>, D.</strong>, Gui, S., Liu, J., Cheng, Y., Qian, X. and <strong>Huang, S</strong>., “<strong>Longitudinal Planning for Personalized Health Management Using Daily Behavioral Data</strong>”, <em>IISE Transactions on Healthcare Systems Engineering</em>, 2019.</p>
+  </li>
+  <li>
+    <p><strong>[JBI]</strong>  He, K, <strong>Huang, S</strong>. and Qian, X., “<strong>Early Detection and Risk Assessment for Chronic Disease with Irregular Longitudinal Data Analysis</strong>”, <em>Journal of Biomedical Informatics</em>, 2019.</p>
+  </li>
+  <li>
+    <p><strong>[IISE-HSE]</strong>  <strong>Samareh<sup>1</sup>, A.</strong>, Jin, Y., Wang, Z., Chang, X., <strong>Huang, S</strong>., “<strong>Detect Depression from Communication: How Computer Vision, Signal Processing, and Sentiment Analysis Join Forces</strong>”, <em>IISE Transactions on Healthcare Systems Engineering</em>, 2019.</p>
+  </li>
+  <li>
+    <p><strong>[EURASIP]</strong>  <strong>Samareh<sup>1</sup>, A.</strong>, <strong>Huang, S.</strong>, “<strong>DL-CHI: a Dictionary Learning-based Contemporaneous Health Index for Degenerative Disease Monitoring</strong>”, <em>EURASIP Journal of Advances in Signal Processing</em>, 2018.</p>
+  </li>
+  <li>
+    <p><strong>[SR]</strong>  <strong>Lin<sup>1</sup>, Y.</strong>, <strong>Huang, S</strong>., Simon, G. and Liu, S., “<strong>Data-based Decision Rules to Personalize Depression Follow-up</strong>”, <em>Scientific Report</em>, 2018.</p>
+  </li>
+  <li>
+    <p><strong>[JHIR]</strong> Ardywibowo, R., <strong>Huang, S</strong>., Gui, S., <strong>Xiao<sup>1</sup>, C.</strong>, Cheng, Y., Liu, J. and Qian, X., “<strong>Switching-State Dynamical Modeling of Daily Behavioral Data</strong>”, <em>Journal of Healthcare Informatics Research</em>, 2018.</p>
+  </li>
+  <li>
+    <p><strong>[AAAI-Abstract]</strong> <strong>Samareh<sup>1</sup>, A.</strong>, <strong>Yan<sup>1</sup>, J.</strong>, Wang, Z., Chang, X., <strong>Huang, S</strong>., “<strong>Robust emotion recognition from low quality and low bit rate video: A deep learning approach</strong>”, <em>In Proceedings of the 2017 Seventh International Conference on Affective Computing and Intelligent Interaction (ACII)</em>, 2017.</p>
+  </li>
+  <li>
+    <p><strong>[ACII]</strong> Cheng, B., Wang, Z., Zhang, Z., Li, Z., Liu, D., Yang, J., <strong>Huang, S</strong>., Huang, T.S., “<strong>Predicting Depression Severity by Multi-Modal Feature Engineering and Fusion</strong>”, <em>In Proceedings of the 28-th AAAI Conference on Artificial Intelligence (AAAI)</em>, 2018.</p>
+  </li>
+  <li>
+    <p><strong>[EURASIP]</strong>  <strong>Huang, S</strong>., Zhou, J., Wang, Z., Ling, Q. and Shen, Y, “<strong>Biomedical informatics with Optimization and Machine Learning</strong>”, <em>EURASIP Journal of Advances in Signal Processing</em>, 2017.</p>
+  </li>
+  <li>
+    <p><strong>[JBI]</strong>  Huang, YJ., <strong>Meng<sup>1</sup>, Q.</strong>, Evans, H., Lober, B., Cheng, Y., Qian, X., Liu, J. and <strong>Huang, S</strong>. “<strong>CHI: A Contemporaneous Health Index for Degenerative Disease Monitoring using Longitudinal Measurements</strong>”, <em>Journal of Biomedical Informatics</em>, 2017.</p>
+  </li>
+  <li>
+    <p><strong>[MathBio]</strong>  <strong>Lin<sup>1</sup>, Y.</strong>, <strong>Huang, S</strong>., Simon, G. and Liu, S. “<strong>Analysis of Depression Trajectory Patterns using Collaborative Learning</strong>”, <em>Mathematical Bioscience</em>, 2016.</p>
+  </li>
+  <li>
+    <p><strong>[EURASIP]</strong>  <strong>Yan<sup>1</sup>, J.</strong>, Su, Y., Zhou, XH. and <strong>Huang, S</strong>. “<strong>Heterogeneous Multimodal Biomarker Analysis for Alzheimer’s Disease via Bayesian Network</strong>”, <em>EURASIP Journal of Advances in Signal Processing</em>, 2016.</p>
+  </li>
+  <li>
+    <p><strong>[ART]</strong>  Grewal, R., <strong>Haghighi<sup>1</sup>, M.</strong>, <strong>Huang, S</strong>., Smith, A., Cao, C., Lin, X., Lee, D., Teten, N., Pharm, H. and Selenica. “<strong>Identifying Biomarkers of Dementia Prevalent Among Amnestic MCI Ethnic Female Patients</strong>”, <em>Alzheimer’s Research &amp; Therapy</em>, 2016.</p>
+  </li>
+  <li>
+    <p><strong>[SR]</strong>  <strong>Haghighi<sup>1</sup>, M.</strong>, Johnson, S., Qian, X., Lynch, K., Vehik, K., <strong>Huang, S</strong>. and the TEDDY Study Group, “<strong>A Comparison of Rule-based Analysis with Regression Methods in Understanding the Risk Factors for Study Withdrawal in a Pediatric Study</strong>”, <em>Scientific Report</em>, 2016.</p>
+  </li>
+  <li>
+    <p><strong>[JBI]</strong>  Ke, C., <strong>Yan<sup>1</sup>, J.</strong>, Evans, H., Lober, B., Qian, X., Liu, J. and <strong>Huang, S</strong>. “<strong>Prognostics of Surgical Site Infections using Dynamic mHealth Data</strong>”, <em>Journal of Biomedical Informatics</em>, 2016.</p>
+  </li>
+  <li>
+    <p><strong>[JACS]</strong>  Sanger, P., van Ramshorst, G., Mercan, E., <strong>Huang, S</strong>., Hartzler, A., Armstrong, C., Lordon, R., Lober, W. and Evans, H., “<strong>A Prognostic Model of Surgical Site Infection Incorporating Daily Objective Wound Assessments using Machine Learning</strong>”, <em>Journal of the American College of Surgeons</em>, 2016.</p>
+  </li>
+  <li>
+    <p><strong>[INFORMS TUTORIAL]</strong>  <strong>Huang, S</strong>. and W. Art Chaovalitwongse, “<strong>Computational Optimization and Statistical Methods for Big Data Analytics: Applications in Neuroimaging</strong>”, <em>INFORMS Tutorial</em>, Vol. 5, 71-88, 2015.</p>
+  </li>
+  <li>
+    <p><strong>[BIOKDD]</strong>  Lu, M., <strong>Huang, S</strong>., Odegard, J., Speake, C., Huang, J.Z. and Qian, X. “<strong>EigenBiomarker: A Method for Composite Biomarker Detection with Applications in Type 1 Diabetes (T1D)</strong>”. <em>Proc. 14th International Workshop on Data Mining in Bioinformatics (BIOKDD)</em>, Sydney, Australia, August 2015.</p>
+  </li>
+  <li>
+    <p><strong>[MLCB]</strong>  Lu,M., <strong>Huang, S</strong>., Odegard, J., Speake, C., Huang, J.Z. and Qian, X. “<strong>A Model for Scoring Candidate Biomarker Utility in High-Dimensional Datasets with Replicate Tests</strong>”. <em>Proc. Workshops on Machine Learning in Computational Biology (MLCB) &amp; Machine Learning in Systems Biology (MLSB) 2015, in conjunction with the Annual Conference on Neural Information Processing Systems (NIPS) 2015</em>, Montreal, Canada, December 2015.</p>
+  </li>
+  <li>
+    <p><strong>[PLOS ONE]</strong>  <strong>Lin<sup>1</sup>, Y.</strong>, Qian, X., Krischer, J., Vehik, K., Lee, H.S. and <strong>Huang, S</strong>., “<strong>A Rule-Based Prognostic Model for Type 1 Diabetes by Identifying and Synthesizing Baseline Profile Patterns</strong>”, <em>PLOS ONE</em>, 9(6):e91095, 2014.</p>
+  </li>
+  <li>
+    <p><strong>[SURGERY]</strong>  Hartney, M., <strong>Liu<sup>1</sup>, Y.</strong>, Velanovich, V., Fabri, P., Marcet, J., Grieco, M., <strong>Huang, S</strong>. and Zayas-Castro, J., “<strong>Bounceback Branchpoints: Using Conditional Inference Trees to Analyze Readmissinos</strong>”, <em>Surgery</em>, Vol. 156 (4), 842-847, 2014.</p>
+  </li>
+  <li>
+    <p><strong>[JAD]</strong>  <strong>Haghighi<sup>1</sup>, M.</strong>, Smith, A., Morgan, D., Brent, S. and <strong>Huang, S</strong>., “<strong>Identifying Cost-Effective Predictive Rules of Amyloid-Beta Level by Integrating Neuropsychological Tests and Plasma-based Markers</strong>”, <em>Journal of Alzheimer’s Disease</em>, Vol. 43(4), 1261-1270, 2014.</p>
+  </li>
+  <li>
+    <p><strong>[NEUROIMAGE]</strong>  <strong>Huang, S</strong>., Li, J., Sun, Li., Ye, J., Fleisher, A., Wu, T., Chen, K., and Reiman, E., “<strong>Learning Brain Connectivity of Alzheimer’s Disease by Exploratory Graphical Models</strong>,” <em>NeuroImage</em>, 50, 935-949, 2011.</p>
+  </li>
+</ul>
+
+<p><br /><br /></p>
+
+<h3 id="manufacturing-transportation-and-other-engineering-areas"><strong>Manufacturing, Transportation, and other Engineering Areas</strong></h3>
+
+<ul>
+  <li>
+    <p><strong>[TRC]</strong>  <strong>Zhu<sup>1</sup>, X.</strong>, <strong>Feng<sup>1</sup>, J.</strong>, <strong>Huang, S.</strong>, and Chen, C., “<strong>An Online Updating Method for Time-Varying Preference Learning</strong>”, <em>Transportation Research Part C: Emerging Technologies</em>, 2020.</p>
+  </li>
+  <li>
+    <p><strong>[TRC]</strong>  <strong>Feng<sup>1</sup>, J.</strong>, <strong>Huang, S.</strong>, and Chen, C., “<strong>Modeling user interaction with app-based reward system: A graphical model approach integrated with max-margin learning</strong>”, <em>Transportation Research Part C: Emerging Technologies</em>, 2020.</p>
+  </li>
+  <li>
+    <p><strong>[EJOR]</strong> Wu, Z., <strong>Huang, S</strong>. and Xu, J., “<strong>Multi-stage Optimization Models for Individual Consistency and Group Consensus with Preference Relations</strong>”, <em>European Journal of Operational Research</em>, 2019.</p>
+  </li>
+  <li>
+    <p><strong>[IEEE-ASE]</strong>  <strong>Feng<sup>1</sup>, T.</strong>, Qian, X., Liu, K. and <strong>Huang, S.</strong>, “<strong>Dynamic Inspection of Latent Variables in State-Space Systems</strong>”, <em>IEEE Transactions on Automation Science and Engineering</em>, 2019.</p>
+  </li>
+  <li>
+    <p><strong>[DS]</strong> Li, M., Wu, Y., <strong>He<sup>1</sup>, Y.</strong>, <strong>Huang, S.</strong> and Nair, A, “<strong>Sparse Inverse Covariance Estimation: A Data Mining Technique to Unravel Holistic Patterns among Business Practices in Firms</strong>”, <em>Decision Science</em>, 2019.</p>
+  </li>
+  <li>
+    <p><strong>[PLOS]</strong> Chang, X., Shen, J., Lu, X. and <strong>Huang, S.</strong>, “<strong>Statistical Patterns of Human Mobility in Emerging Bicycle Sharing Systems</strong>”, <em>PLOS ONE</em>, 2018.</p>
+  </li>
+  <li>
+    <p><strong>[IEEE-ASE]</strong>  Sun, HY., <strong>Huang, S</strong>. and Ran, J, “<strong>Functional Graphical Models for Manufacturing Process Modeling</strong>”, <em>IEEE Transactions on Automation Science and Engineering</em>, 2017.</p>
+  </li>
+  <li>
+    <p><strong>[IIE]</strong>  <strong>Jin<sup>1</sup>, Y.</strong>, <strong>Huang, S.</strong>, Wang, G. and Deng, H., “<strong>Diagnostic Monitoring of Multivariate Process via a LASSO-BN Formulation</strong>”, <em>IIE Transactions</em>, 2017.</p>
+  </li>
+  <li>
+    <p><strong>[IEEE-TPS]</strong>  You, M., Liu, B., Byon, E., <strong>Huang, S.</strong>, Jin, J., “<strong>Direction-dependent Power Curve Modeling for Multiple Interacting Wind Turbines</strong>”, <em>IEEE Transactions on Power Systems</em>, 2017.</p>
+  </li>
+  <li>
+    <p><strong>[SMJ]</strong>  Li, M., <strong>Lin<sup>1</sup>, Y.</strong>, <strong>Huang, S</strong>. and Crossland, C., “<strong>The Use of Sparse Inverse Covariance Estimation for Relationship Detection and Theory Building in Strategic Management</strong>”, <em>Strategic Management Journal</em>, Vol. 37 (1), 86-97, 2016.</p>
+  </li>
+  <li>
+    <p><strong>[IEEE-EC]</strong>  Yampikulsakul, N., Byon, E., <strong>Huang, S</strong>. and Sheng, S.W., “<strong>Condition Monitoring of Wind Power System with Non-Parametric Regression Analysis</strong>”, <em>IEEE Transactions on Energy Conversion</em>, Vol. 29(2), 288-299, 2014.</p>
+  </li>
+  <li>
+    <p><strong>[APL]</strong>  Wang, R., <strong>Huang, S</strong>., Li, J. and Chae, J., “<strong>Probing Thyroglobulin in Undiluted Human Serum based on Pattern Recognition and Competitive Adsorption of Proteins</strong>”, <em>Applied Physics Letters</em>, Vol. 105 (14), 143703-143705, 2014.</p>
+  </li>
+  <li>
+    <p><strong>[IIE]</strong>  <strong>Huang, S</strong>., Li, J., Lamb, G., Schmitt, M., and Fowler, J., “<strong>Multi-data Fusion for Enterprise Quality Improvement by a Multilevel Latent Response Model</strong>”, <em>IIE Transactions</em>, 2012.</p>
+  </li>
+  <li>
+    <p><strong>[Lab-on-a-chip]</strong>  Choi, S., <strong>Huang, S</strong>., Li, J. and Chae, J., “<strong>Monitoring Protein Distributions based on Pattern Generated by Protein Adsorption Behavior in a Microfluidic Channel</strong>”, <em>Lab-on-a-Chip</em>, 11, 3681-3688, 2011.</p>
+  </li>
+  <li>
+    <p><strong>[IEEE-Reliability]</strong>  <strong>Huang, S</strong>., Pan, R., and Li, J., “<strong>A Graphical Technique and Penalized Likelihood Method for Identifying and Estimating Infant Failures</strong>,” <em>IEEE Transactions on Reliability</em>, 59(4), 650-660, 2010.</p>
+  </li>
+  <li>
+    <p><strong>[IIE]</strong>  Li, J., and <strong>Huang, S</strong>., “<strong>Regression-based Process Monitoring with Consideration of Measurement Errors</strong>,” <em>IIE Transactions</em>, 42(2), 146-160, 2009.</p>
+  </li>
+</ul>
+
+<p><br /><br /></p>
+
+<h3 id="honors-and-awards"><strong>Honors and Awards</strong></h3>
+<ul>
+  <li>Best Paper Award (First Runner-up), for paper “Optimal Expert Knowledge Elicitation for Bayesian Network Structure Identification”, IEEE Transactions on Automation Science and Engineering, 2019.</li>
+  <li>Award of Merit, Amazon Catalyst, for “Magic Mirror: A Smart Camera that Reads Your Face Everyday”, 2017.</li>
+  <li>Honorable Mention, for paper “High-dimensional Process Monitoring and Change Point Detection using Embedding Distributions in Reproducing Kernel Hilbert Space (RKHS)”, IIE Transactions Focused Issue on Quality and Reliability Engineering Best Applications Paper Award Competition, 2016</li>
+  <li>Feature Article in IIE Magazine, for paper “High-dimensional Process Monitoring and Change Point Detection using Embedding Distributions in Reproducing Kernel Hilbert Space (RKHS)”, Oct. 2014</li>
+  <li>Best Paper Award, IIE Transactions Best Paper – Quality &amp; Reliability Engineering, for “A Transfer Learning Approach for Network Modeling”, 2014</li>
+  <li>Outstanding Graduate Award, School of Computing, Informatics, and Decision Systems Engineering, Arizona State University, 2012</li>
+  <li>University Graduate Fellowship Award, School of Computing, Informatics, and Decision Systems Engineering, Arizona State University, 2012</li>
+  <li>Feature Article in IIE Magazine, for paper “Regression-based Process Monitoring with Consideration of Measurement Errors”, Jan. 2010</li>
+</ul>
+
+:ET

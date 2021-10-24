@@ -1,0 +1,16 @@
+I"†<p align="center">
+  <img src="./images/book_photo.jpeg" alt="book" style="width:60%" />
+  <img src="./images/book_photo2.jpeg" alt="book" style="width:60%" />
+  <img src="./images/book_photo3.jpeg" alt="book" style="width:60%" />
+  <img src="./images/book_photo4.jpeg" alt="book" style="width:60%" />
+</p>
+
+<ul>
+  <li>Suitable for introductory data analytics courses.</li>
+  <li>Free online version <a href="http://dataanalyticsbook.info/">here</a>.</li>
+  <li>Many small datasets to guide students to work out pencil solutions and then compare with results obtained from established R/Python packages.</li>
+  <li>Codes (R and Python) and datasets available at <a href="https://github.com/analyticsbook/book">github</a>.</li>
+  <li>Solution manual (for instructors) available at <a href="https://www.routledge.com/Data-Analytics-A-Small-Data-Approach/Huang-Deng/p/book/9780367609504">here</a>.</li>
+  <li>Buy the book <a href="https://www.routledge.com/Data-Analytics-A-Small-Data-Approach/Huang-Deng/p/book/9780367609504">here</a> or through <a href="https://www.amazon.com/Data-Analytics-Approach-Chapman-Science/dp/0367609509">Amazon.com</a>.</li>
+</ul>
+:ET
