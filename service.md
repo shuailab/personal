@@ -22,8 +22,8 @@ title:
 - Associate Editor, IIE Transactions on Healthcare Systems Engineering, 2016 - present
 - Associate Editor, Quality Technology & Quantitative Management, 2016 - 2020
 - Guest Editor: EURASIP Journal on Bioinformatics and Systems Biology, for the special issue - Biomedical Informatics with Optimization and Machine Learning, 2016
-- Guest Editor: Brain Informatics, for the Special Issue on Computational Methods for Neuroimaging Data Analysis, 2015-2016
-- Associate Editor, Journal of Alzheimer's Disease, 2015-2016
+- Guest Editor: Brain Informatics, for the Special Issue on Computational Methods for Neuroimaging Data Analysis, 2015 - 2016
+- Associate Editor, Journal of Alzheimer's Disease, 2015 - 2016
 
 
 ### **Journal and Conferences Reviewers**
