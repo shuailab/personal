@@ -2,10 +2,6 @@
 title: 
 ---
 
-**For perspective students**
-
-If you didn't hear back from me about your inquiry --- I apologize but I may not have time to reply to all the inquiry emails --- please follow the application process of our department and send in a full application package. A committee will review your application and create a short list for skype interview. After the interview, please contact me if you are interested in working with me. Thanks.
-
 
 **PhD students (current)**
 
