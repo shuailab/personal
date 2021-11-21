@@ -6,7 +6,7 @@ title:
 **PhD students (current)**
 
 - Feng Lin 
-- Wengeng Pan
+- Wengeng Pan (co-advised with Dr. Chaoyue Zhao)
 	* Qualify Exam passed in 02/2021
 - Ameer Hamza Shakur 
 	* General Exam passed in 04/2021
