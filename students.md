@@ -18,7 +18,7 @@ title:
 - Jingshuo Feng (graduated in 2021)
 	* Dissertation topic: "Modeling Heterogeneous User Behavior in Interactive Systems by Graphical Model and Collaborative Learning Framework"
 	* Research Intern in AI Platform at Kuaishou Technology 
-	* Looking for job opportunities at Seattle (<a href="./images/JingshuoFeng_resume.pdf">CV</a>)
+	* First position: Data Scientist at Citi
 - Mona Haghighi (graduated in 2016, USF)
 	* Dissertation topic: "Rule-based Risk Monitoring Systems for Complex Datasets"
 	* Recipient of the Dissertation Completion Award in 2015
