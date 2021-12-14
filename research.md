@@ -52,7 +52,6 @@ ___
 
 
 **Acknowledgment for Funding Support**
-(Total funding amount:$7M. My responsibility: $2.5M)
 - National Science Foundation (CMMI-1505260, CMMI-1536398, CMMI-1824623, CCF-1715027, CIS-2114260)
 - Juvenile Diabetes Research Foundation
 - NIH
