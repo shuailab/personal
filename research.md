@@ -2,7 +2,7 @@
 title: Research
 ---
 
-Shuai’s research is driven by challenging data analytics problems, emphasizes innovation in machine learning and data analytics in connected world, automates the integration of human with these data-driven learning systems, and targets system-level interpretable and explainable decision-makings. 
+Shuai’s research is driven by challenging data analytics problems, emphasizes innovation in machine learning and data analytics for the connected world, automates the integration of human with these data-driven learning systems, and targets system-level interpretable and explainable decision-makings. 
 
 He develops methodologies for modeling, monitoring, diagnosis, and prognosis of complex networked systems, such as brain connectivity networks, social networks, cyber-physics systems, and Internet of Things (IoT). 
 
