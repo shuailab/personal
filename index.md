@@ -8,5 +8,5 @@ title: About me
 
 You can find Shuai's CV [here](https://drive.google.com/file/d/1C63cMhbOsJrXU3nA7BlhLn2L3SKaLQQ4/view?usp=sharing).
 
-To contact him, please send email to the following email address: [shuai.huang.ie@gmail.com](shuai.huang.ie@gmail.com)
+To contact him, please send email to the following email address: [shuaih@uw.edu](shuaih@uw.edu)
 
