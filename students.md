@@ -17,7 +17,7 @@ title:
 **PhD students (graduated)**
 
 - Jingshuo Feng (graduated in 2021)
-	* Dissertation topic: "Modeling Heterogeneous User Behavior in Interactive Systems by Graphical Model and Collaborative Learning Framework"
+	* Dissertation topic: "Modeling Heterogeneous User Behavior in Interactive Systems by Graphical Model and Collaborative Learning"
 	* Research Intern in AI Platform at Kuaishou Technology 
 	* First position: Data Scientist at Citi
 - Mona Haghighi (graduated in 2016, USF)
