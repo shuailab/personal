@@ -3,6 +3,8 @@ title:
 ---
 ### **Machine Learning/Data Analytics**
 
+- **[AISTAT]** Ardywibowo, R., Boluki, S., Wang, Z., Mortazavi, B., **Huang, S**., Qian, X., “**VFDS: Variational Foresight Dynamic Selection in Bayesian Neural Networks**”, *The 25th International Conference on Artificial Intelligence and Statistics (AISTAT 2022)*, 2022.
+
 - **[SC]** Xuan, D., **Huang, S**. and Qian, X., "**Penalized Cox’s Proportional Hazards Model for High-dimensional Survival Data with Grouped Predictors**", *Statistics and Computing*, 2021.
 
 - **[JBI]** **Shakur<sup>1</sup>, A.**, **Huang, S**. Qian, X., and Chang, X., "**SURVFIT: Doubly Sparse Rule Learning for Survival Data**", *Journal of Biomedical Informatics*, 2021.
