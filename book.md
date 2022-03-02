@@ -2,6 +2,8 @@
 title: DATA ANALYTICS
 ---
 
+### **To train a diverse workforce who all understand data science and AI tools, and can communicate about it, and participate in the development of AI tools in various ways**
+
 <p align="center">
   <img src='./images/book_photo.jpeg' alt='book' style="width:60%"/>
   <img src='./images/book_photo2.jpeg' alt='book' style="width:60%"/>
@@ -14,7 +16,7 @@ title: DATA ANALYTICS
 - Suitable for introductory data analytics courses. 
 - Emphasize storytelling and holistic understanding
 	* to build trust and transparency for trustworthy data science and AI applications
-	* to train a diverse workforce but all understand data science and AI tools
+	* to train a diverse workforce who all understand data science and AI tools
 - Build confidence by rigorous training and simple learning strategies
 	* Many small datasets to guide students to work out pencil solutions and compare with established R/Python packages. 
 - Free online version [here](http://dataanalyticsbook.info/).
