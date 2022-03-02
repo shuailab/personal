@@ -2,7 +2,7 @@
 title: DATA ANALYTICS
 ---
 
-  *This book is dedicated to the vision of an AI-enabled workforce to train a diverse workforce whose members all understand data science and AI tools, and can communicate about them in effective language and participate in the development of AI tools in various ways.*
+  *This book is dedicated to the vision of an AI-enabled workforce to train a diverse workforce whose members all understand the principles and intuitions of data science and AI tools, and can communicate about them in effective language and participate in the development of effective and responsible AI tools in various ways.*
 
 <br><br>
 
