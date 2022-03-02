@@ -11,6 +11,10 @@ title: DATA ANALYTICS
 
 
 
+- Jingshuo Feng (graduated in 2021)
+	* Dissertation topic: "Modeling Heterogeneous User Behavior in Interactive Systems by Graphical Model and Collaborative Learning"
+	* Research Intern in AI Platform at Kuaishou Technology 
+
 - Suitable for introductory data analytics courses. 
 - Emphasize storytelling and holistic understanding
       * to build trust and transparency in trustworthy data science and AI applications
