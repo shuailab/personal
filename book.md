@@ -2,9 +2,7 @@
 title: DATA ANALYTICS
 ---
 
-<p align="center">
-  **This book helps to train a diverse workforce who all understand data science and AI tools, and can communicate about it, and participate in the development of AI tools in various ways**
-</p>
+  *This book helps to train a diverse workforce who all understand data science and AI tools, and can communicate about it, and participate in the development of AI tools in various ways*
 
 
 <p align="center">
