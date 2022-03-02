@@ -2,7 +2,7 @@
 title: Research
 ---
 
-Shuai’s research is driven by challenging data analytics and AI problems, emphasizes innovation in machine learning and AI modeling for complex systems and processes in the connected world, automates the integration of human with these data-driven learning systems, and targets interpretable and explainable decision-makings with discretion of AI ethics and accountability. 
+Shuai’s research is driven by challenging data analytics and AI problems, emphasizes innovation in machine learning and AI modeling for [complex systems and processes](https://www.sciencedirect.com/science/article/abs/pii/S1053811909014281) in the [connected world](https://ieeexplore.ieee.org/abstract/document/8169076), automates the [integration of human](https://ieeexplore.ieee.org/abstract/document/8304661) with these data-driven learning systems, and targets [interpretable and explainable](https://www.sciencedirect.com/science/article/abs/pii/S1532046421000204) decision-makings with discretion of [AI ethics and accountability](https://ieeexplore.ieee.org/abstract/document/9115837). 
 
 He develops methodologies for modeling, monitoring, diagnosis, and prognosis of complex networked systems, such as brain connectivity networks, social networks, cyber-physics systems, and Internet of Things (IoT). 
 
