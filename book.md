@@ -13,7 +13,7 @@ title: DATA ANALYTICS
 
 - Suitable for introductory data analytics courses. 
 - Emphasize storytelling and holistic understanding
-	* to build trust and transparency in trustworthy data science and AI applications
+	* to build trust and transparency for trustworthy data science and AI applications
 	* to train a diverse workforce but all understand data science and AI tools
 - Build confidence by rigorous training and simple learning strategies
 	* Many small datasets to guide students to work out pencil solutions and compare with established R/Python packages. 
