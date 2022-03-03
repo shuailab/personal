@@ -18,7 +18,7 @@ title: DATA ANALYTICS
 - Build confidence by rigorous training and simple learning strategies
 	* many small datasets to guide students to work out pencil solutions and compare with established R/Python packages. 
 - To train an AI-enabled workforce
-	* whose members understand the principles and intuitions of data science and AI tools
+	* whose members with diverse backgrounds understand the principles and intuitions of data science and AI tools
 	* can communicate about them in effective language
 	* can participate in the development of productive and responsible AI tools in various ways.
 - Free online version [here](http://dataanalyticsbook.info/).
