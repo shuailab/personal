@@ -2,7 +2,7 @@
 title: DATA ANALYTICS
 ---
 
-  *This book is motivated by the vision of an AI-enabled workforce whose members understand the principles and intuitions of data science and AI tools, and can communicate about them in effective language and participate in the development of effective and responsible AI tools in various ways.*
+  *This book is motivated by the vision of an AI-enabled workforce whose members understand the principles and intuitions of data science and AI tools, and can communicate about them in effective language and participate in the development of productive and responsible AI tools in various ways.*
 
 <br><br>
 
