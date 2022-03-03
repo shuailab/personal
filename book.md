@@ -16,7 +16,7 @@ title: DATA ANALYTICS
 - Emphasize storytelling and holistic understanding
 	* to build trust and transparency for trustworthy data science and AI applications
 - Build confidence by rigorous training and simple learning strategies
-	* Many small datasets to guide students to work out pencil solutions and compare with established R/Python packages. 
+	* many small datasets to guide students to work out pencil solutions and compare with established R/Python packages. 
 - To train an AI-enabled workforce
 	* whose members understand the principles and intuitions of data science and AI tools
 	* can communicate about them in effective language
