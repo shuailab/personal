@@ -5,7 +5,9 @@ title: DATA ANALYTICS
 
 <br><br>
 
-<div align="center"> For an AI-enabled workforce
+
+</p>
+<div align="center"> For an AI-enabled workforce </div>
 
 <br><br>
 
