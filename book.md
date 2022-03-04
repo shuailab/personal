@@ -3,11 +3,6 @@ title: DATA ANALYTICS
 ---
 
 
-<br><br>
-
-<div align="center"> For an AI-enabled workforce </div>
-
-<br><br>
 
 <p align="center">
   <img src='./images/book_photo.jpeg' alt='book' style="width:60%"/>
