@@ -16,6 +16,9 @@ Working with domain experts, these data-driven learning, data engineering, and d
   <img src='./images/theme_shuais_reserach.png' alt='research'/>
 </p>
 
+
+<!---
+
 ___
 
 **Research Thrust 1: Mechanistic Understanding of Complex System Problems**
@@ -45,7 +48,7 @@ ___
 - IoT (context-aware computing, uncertainty quantification, adaptive monitoring and cost-effective sensing)
 - Prognostics and health management (PHM) 
 
-
+-->
 
 
 <br><br>
