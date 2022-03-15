@@ -22,9 +22,15 @@ Working with domain experts, these data-driven learning, data engineering, and d
 
 *Collaborative Construction of Models for Networked Systems by Human-AI Collaboration*
 
+<br>
+
 <p align="center">
   <img src='./images/research_humanAI.png' alt='research'/>
 </p>
+
+<br>
+
+*Mitigate Data Disparities (such as minority bias, aggregation bias) by Collaborative Learning*
 
 <br>
 
@@ -34,15 +40,27 @@ Working with domain experts, these data-driven learning, data engineering, and d
 
 <br>
 
+*Improve the Interpretability and Transparency of Risk Prediction of Type 1 Diabetes by Rule-based Methods*
+
+<br>
+
 <p align="center">
   <img src='./images/research_transparency.png' alt='research'/>
 </p>
 
 <br>
 
+*Understand the Bias and Uncertainties in Human Mobility Data*
+
+<br>
+
 <p align="center">
   <img src='./images/research_bias_mobility.png' alt='research'/>
 </p>
+
+<br>
+
+*Modeling of User Choice Behavior and Interactions with Reward-offering AI Systems*
 
 <br>
 
