@@ -16,27 +16,35 @@ Working with domain experts, these data-driven learning, data engineering, and d
   <img src='./images/theme_shuais_reserach.png' alt='research'/>
 </p>
 
+<br><br>
 
 **Active Projects**
+
+*Collaborative Construction of Models for Networked Systems by Human-AI Collaboration*
 
 <p align="center">
   <img src='./images/research_humanAI.png' alt='research'/>
 </p>
 
+<br>
+
 <p align="center">
   <img src='./images/research_collaborative learning.png' alt='research'/>
 </p>
 
+<br>
 
 <p align="center">
   <img src='./images/research_transparency.png' alt='research'/>
 </p>
 
+<br>
 
 <p align="center">
   <img src='./images/research_bias_mobility.png' alt='research'/>
 </p>
 
+<br>
 
 <p align="center">
   <img src='./images/research_userbehavior.png' alt='research'/>
