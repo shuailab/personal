@@ -18,7 +18,7 @@ Working with domain experts, these data-driven learning, data engineering, and d
 
 <br><br>
 
-**Active Projects**
+**Example Projects**
 
 *Collaborative Construction of Models for Networked Systems by Human-AI Collaboration*
 
