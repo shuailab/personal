@@ -17,6 +17,31 @@ Working with domain experts, these data-driven learning, data engineering, and d
 </p>
 
 
+**Active Projects**
+
+<p align="center">
+  <img src='./images/research_humanAI.png' alt='research'/>
+</p>
+
+<p align="center">
+  <img src='./images/research_collaborative learning.png' alt='research'/>
+</p>
+
+
+<p align="center">
+  <img src='./images/research_transparency.png' alt='research'/>
+</p>
+
+
+<p align="center">
+  <img src='./images/research_bias_mobility.png' alt='research'/>
+</p>
+
+
+<p align="center">
+  <img src='./images/research_userbehavior.png' alt='research'/>
+</p>
+
 <!---
 
 ___
