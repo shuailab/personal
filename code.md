@@ -4,7 +4,7 @@ title:
 ### **MATLAB/R**
 
 - [SURVFIT](https://github.com/RuleLearning/SURVFIT) [by Ameer Hamza Shakur]
-- [RuleLearning Repository](https://github.com/RuleLearning)
+- [RuleLearning Repository](https://github.com/RuleLearning) [by Ameer Hamza Shakur]
 - [L1mstate](https://cran.r-project.org/web/packages/L1mstate/index.html) [by Xuan Dang]
 - [grpCox](https://cran.r-project.org/web/packages/grpCox/index.html) [by Xuan Dang]
 - [LDT](https://github.com/feng-jings/LDTmodel) [by Jingshuo Feng]
