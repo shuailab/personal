@@ -1,7 +1,7 @@
 ---
 title:
 ---
-### **MATLAB/R**
+### **Code**
 
 - [SURVFIT](https://github.com/RuleLearning/SURVFIT) [by Ameer Hamza Shakur]
 - [RuleLearning Repository](https://github.com/RuleLearning) [by Ameer Hamza Shakur]
