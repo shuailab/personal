@@ -4,6 +4,9 @@ title:
 ### **MATLAB/R**
 
 - [SURVFIT](https://github.com/RuleLearning/SURVFIT) [by Ameer Hamza Shakur]
+- [RuleLearning Repository](https://github.com/RuleLearning)
+- [L1mstate](https://cran.r-project.org/web/packages/L1mstate/index.html) [by Xuan Dang]
+- [grpCox](https://cran.r-project.org/web/packages/grpCox/index.html) [by Xuan Dang]
 - [LDT](https://github.com/feng-jings/LDTmodel) [by Jingshuo Feng]
 - [BN-DOE](https://github.com/jyfeather/bnlearn_expert) [by Yan Jin]
 - [SSI-PRED](https://drive.google.com/file/d/0Bx9UoSDt26JANjItR0pvSGZpN28/view?usp=sharing) [by Chuyang Ke]
