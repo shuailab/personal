@@ -71,10 +71,10 @@ Working with domain experts, these data-driven learning, data engineering, and d
 
 *Other examples from my previous website*
 
-- Brain connectivity modeling using Neuroimaging data ([link](https://sites.google.com/site/shuaihuang28/website-builder/thrust-1/brain-c))
-- Towards mechanistic understanding of type 1 diabetes ([link](https://sites.google.com/site/shuaihuang28/website-builder/thrust-1/t1d))
-- Smart monitoring of complex diseases ([link](https://sites.google.com/site/shuaihuang28/website-builder/thrust-2/smart-monitoring))
-- Integration with mHealth technology ([link](https://sites.google.com/site/shuaihuang28/website-builder/thrust-2/mpower))
+- Brain connectivity modeling using Neuroimaging data ([link](https://sites.google.com/site/shuaihuang28/website-builder/thrust-1))
+- Towards mechanistic understanding of type 1 diabetes ([link](https://sites.google.com/site/shuaihuang28/website-builder/thrust-1))
+- Smart monitoring of complex diseases ([link](https://sites.google.com/site/shuaihuang28/website-builder/thrust-2))
+- Integration with mHealth technology ([link](https://sites.google.com/site/shuaihuang28/website-builder/thrust-2))
 
 
 <!---
