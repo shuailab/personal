@@ -1,6 +1,21 @@
 ---
 title:
 ---
+
+
+### **Editorial Board**
+- Associate Editor, INFORMS Journal of Data Science, 2020 - present
+- Associate Editor, IIE Transactions on Healthcare Systems Engineering, 2016 - present
+- Associate Editor, Quality Technology & Quantitative Management, 2016 - 2020
+- Guest Editor: EURASIP Journal on Bioinformatics and Systems Biology, for the special issue - Biomedical Informatics with Optimization and Machine Learning, 2016
+- Guest Editor: Brain Informatics, for the Special Issue on Computational Methods for Neuroimaging Data Analysis, 2015 - 2016
+- Associate Editor, Journal of Alzheimer's Disease, 2015 - 2016
+
+
+### **Journal and Conferences Reviewers**
+- NIPS, KDD, ICML, SDM, IJCAI, Technometrics, IIE Transactions, Annals of Operations Research, IEEE Transactions on Knowledge and Data Engineering, IEEE Transactions on Systems, Man and Cybernetic, IEEE Transactions on Reliability, IEEE Transactions on Automation Science and Engineering, Neuroimage, PLOS one, Pattern Recognition, Neurocomputing, Journal of Manufacturing Systems
+
+
 ### **Society Activities**
 - Elected as Board Member in Quality Control and Reliability Engineering Division of IIE, 2015 - 2017
 - Chair, Best Student Paper Competition in the Quality Control and Reliability Engineering (QCRE) Division of ISERC Annual Conference 2015
@@ -15,19 +30,6 @@ title:
 - Cluster Chair for Data Mining Cluster at INFORMS Health Care 2015
 - Organizer of the BigBrain Mini-Symposium at the SIAM International Conference on Data Mining (SDM 2015)
 - Session Chairs for Subdivisions of Quality, Statistics and Reliability, Data Mining, and Health Applications at INFORMS from 2011 - present
-
-
-### **Editorial Board**
-- Associate Editor, INFORMS Journal of Data Science, 2020 - present
-- Associate Editor, IIE Transactions on Healthcare Systems Engineering, 2016 - present
-- Associate Editor, Quality Technology & Quantitative Management, 2016 - 2020
-- Guest Editor: EURASIP Journal on Bioinformatics and Systems Biology, for the special issue - Biomedical Informatics with Optimization and Machine Learning, 2016
-- Guest Editor: Brain Informatics, for the Special Issue on Computational Methods for Neuroimaging Data Analysis, 2015 - 2016
-- Associate Editor, Journal of Alzheimer's Disease, 2015 - 2016
-
-
-### **Journal and Conferences Reviewers**
-- NIPS, KDD, ICML, SDM, IJCAI, Technometrics, IIE Transactions, Annals of Operations Research, IEEE Transactions on Knowledge and Data Engineering, IEEE Transactions on Systems, Man and Cybernetic, IEEE Transactions on Reliability, IEEE Transactions on Automation Science and Engineering, Neuroimage, PLOS one, Pattern Recognition, Neurocomputing, Journal of Manufacturing Systems
 
 
 ### **Membership**
