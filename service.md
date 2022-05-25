@@ -17,11 +17,12 @@ title:
 
 
 ### **Society Activities**
+- Panelist, New Faculty Colloquium at The Industrial and Systems Engineering Research Conference (ISERC), 2022
 - Elected as Board Member in Quality Control and Reliability Engineering Division of IIE, 2015 - 2017
 - Chair, Best Student Paper Competition in the Quality Control and Reliability Engineering (QCRE) Division of ISERC Annual Conference 2015
 - Elected as Council Member in Data Mining Subdivision of INFORMS, 2013 - 2015
 - Newsletter Editor in the Quality, Statistics and Reliability subdivision of INFORMS, 2014 - 2016
-- Judge of Best Student Paper Competition in Data Mining Subdivision of INFORMS Annual Conferences, and Best Student Paper Competition in the Quality Control and Reliability Engineering (QCRE) Division of ISERC Annual Conference, 2012 - present
+- Judge of Best Student Paper Competition in Data Mining Subdivision and Quality, Statistics, and Reliability Subdivision of INFORMS Annual Conferences, and Best Student Paper Competition in the Quality Control and Reliability Engineering (QCRE) Division and Data Analytics and Information Systems Division of ISERC Annual Conference, 2012 - present
 
 
 ### **Conference Organizing Activities**
