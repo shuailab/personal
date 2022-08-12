@@ -5,6 +5,7 @@ title: Teaching
 **DATA ANALYTICS** 
 
 - [IND E 427 Data Analytics for Systems Engineering](http://analytics.shuaihuang.info/)
+
 (check out our UW ISE data science option [here](http://analytics.shuaihuang.info/](https://ise.washington.edu/students/BSIE/data-science-option)))
 
 **UNDERGRADUATE TEACHING**
