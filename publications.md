@@ -1,6 +1,9 @@
 ---
 title:
 ---
+
+A full list of publications can be found in [google scholar] (https://scholar.google.com/citations?user=mp6FkGkAAAAJ&hl=en).
+
 ### **Machine Learning/Data Analytics**
 
 - **[AISTAT]** Ardywibowo, R., Boluki, S., Wang, Z., Mortazavi, B., **Huang, S**., Qian, X., “**VFDS: Variational Foresight Dynamic Selection in Bayesian Neural Networks**”, *The 25th International Conference on Artificial Intelligence and Statistics (AISTAT 2022)*, 2022.
