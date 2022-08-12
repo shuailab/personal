@@ -2,7 +2,7 @@
 title:
 ---
 
-A full list of publications can be found in [google scholar] (https://scholar.google.com/citations?user=mp6FkGkAAAAJ&hl=en).
+A full list of publications can be found in [google scholar](https://scholar.google.com/citations?user=mp6FkGkAAAAJ&hl=en).
 
 ### **Machine Learning/Data Analytics**
 
