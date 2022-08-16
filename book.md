@@ -2,7 +2,10 @@
 title: DATA ANALYTICS
 ---
 
-
+- Free online version [here](http://dataanalyticsbook.info/).
+- Codes (R and Python) and datasets available at [github](https://github.com/analyticsbook/book).
+- Solution manual (for instructors) available at [here](https://www.routledge.com/Data-Analytics-A-Small-Data-Approach/Huang-Deng/p/book/9780367609504).   
+- Buy the book [here](https://www.routledge.com/Data-Analytics-A-Small-Data-Approach/Huang-Deng/p/book/9780367609504) or through [Amazon.com](https://www.amazon.com/Data-Analytics-Approach-Chapman-Science/dp/0367609509).
 
 <p align="center">
   <img src='./images/book_photo.jpeg' alt='book' style="width:60%"/>
@@ -22,7 +25,4 @@ title: DATA ANALYTICS
 	* whose members with diverse backgrounds understand the principles and intuitions of data science and AI tools
 	* can communicate about them in effective language
 	* can participate in the development of productive and responsible AI tools in various ways.
-- Free online version [here](http://dataanalyticsbook.info/).
-- Codes (R and Python) and datasets available at [github](https://github.com/analyticsbook/book).
-- Solution manual (for instructors) available at [here](https://www.routledge.com/Data-Analytics-A-Small-Data-Approach/Huang-Deng/p/book/9780367609504).   
-- Buy the book [here](https://www.routledge.com/Data-Analytics-A-Small-Data-Approach/Huang-Deng/p/book/9780367609504) or through [Amazon.com](https://www.amazon.com/Data-Analytics-Approach-Chapman-Science/dp/0367609509).
+
