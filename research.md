@@ -51,6 +51,7 @@ Working with domain experts, these data-driven learning, data engineering, and d
 <br>
 
 *Understand the Bias and Uncertainties in Human Mobility Data*
+
 *Check out our project [website](https://sites.uw.edu/bigdata4mobility/)*
 
 <br>
