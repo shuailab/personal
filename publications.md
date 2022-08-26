@@ -129,6 +129,8 @@ A full list of publications can be found in [google scholar](https://scholar.goo
 
 ### **Manufacturing, Transportation, and other Engineering Areas**
 
+- **[HFES]**  Li, J., Sun, T., **Shakur<sup>1</sup>, A.**, Johnson, M., **Huang, S.**, and Kim, J., "**A Dynamic Bayesian Network Approach for Predicting Multitasking Performance**", *Proceedings of the Human Factors and Ergonomics Society Annual Meeting*, 2022. 
+
 - **[HFES]**  Sun, T., **Shakur<sup>1</sup>, A.**, Johnson, M., **Huang, S.**, and Kim, J., "**Patterns of Eye Movement Influenced by Multitasking Workload: A Clustering Analysis**", *Proceedings of the Human Factors and Ergonomics Society Annual Meeting*, 2021. 
 
 - **[TRC]**  **Zhu<sup>1</sup>, X.**, **Feng<sup>1</sup>, J.**, **Huang, S.**, and Chen, C., "**An Online Updating Method for Time-Varying Preference Learning**", *Transportation Research Part C: Emerging Technologies*, 2020. 
