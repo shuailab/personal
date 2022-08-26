@@ -6,7 +6,11 @@ A full list of publications can be found in [google scholar](https://scholar.goo
 
 ### **Machine Learning/Data Analytics**
 
-- **[AISTAT]** Ardywibowo, R., Boluki, S., Wang, Z., Mortazavi, B., **Huang, S**., Qian, X., “**VFDS: Variational Foresight Dynamic Selection in Bayesian Neural Networks**”, *The 25th International Conference on Artificial Intelligence and Statistics (AISTAT 2022)*, 2022.
+- **[ICML]** Ardywibowo, R., Boluki, S., Wang, Z., Mortazavi, B., **Huang, S**., and Qian, X., “**VFDS: Variational Foresight Dynamic Selection in Bayesian Neural Networks**”, *The 25th International Conference on Artificial Intelligence and Statistics (AISTAT 2022)*, 2022.
+
+- **[AISTAT]** Ardywibowo, R., Huo, Z., Boluki, S., Wang, Z., Mortazavi, B., **Huang, S**., and Qian, X., “**VariGrow: Variational Architecture Growing for Task-Agnostic Continual Learning based on Bayesian Novelty**”, *Proceedings of the 39th International Conference on Machine Learning (ICML)*, 2022.
+
+- **[APSIPA]** Kuh, A., **Huang, S**., and Chen, C., “**Personalized Learning using Multiple Kernel Models**”, *Asia-Pacific Signal and Information Processing Association Annual Summit and Conference (APSIPA ASC)*, 2021.
 
 - **[SC]** Xuan, D., **Huang, S**. and Qian, X., "**Penalized Cox’s Proportional Hazards Model for High-dimensional Survival Data with Grouped Predictors**", *Statistics and Computing*, 2021.
 
@@ -64,6 +68,12 @@ A full list of publications can be found in [google scholar](https://scholar.goo
 
 ### **Healthcare (Disease Research/Healthcare Management)**
 
+- **[ICASSP]** Huo, Z., Ji, T., Liang, Y., **Huang, S**., Wang, Z., Qian, X. and Mortazavi, B "**Dynimp: Dynamic Imputation for Wearable Sensing Data through Sensory and Temporal Relatedness**", *IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)*, 2022.
+
+- **[IEEE-BHI]** Huo, Z., Zhang, L., Khera, R., **Huang, S**., Wang, Z., Qian, X. and Mortazavi, B "**Sparse Gated Mixture-of-Experts to Separate and Interpret Patient Heterogeneity in EHR data**", *IEEE EMBS International Conference on Biomedical and Health Informatics (BHI)*, 2021.
+
+- **[BMC]** Wu, Y., **Huang, S**. and Chang, X., "**Understanding the complexity of sepsis mortality prediction via rule discovery and analysis: a pilot study**", *BMC medical informatics and decision making*, 2021.
+
 - **[JHIR]** Xuan, D., **Huang, S**. and Qian, X., "**Risk Factor Identification in Heterogeneous Disease Progression with L1-Regularized Multi-state Models**", *Journal of Healthcare Informatics Research*, 2021.
 
 - **[SI]**  Jiang, Z., Ardywibowo, R., **Samareh<sup>1</sup>, A.**, Evans, H., Lober, B., Chang, X. and **Huang, S**., "**A Roadmap for Automatic Surgical Site Infection Detection and Evaluation Using User-Generated Incision Images**", *Surgical Infections*, 2019.
@@ -118,6 +128,8 @@ A full list of publications can be found in [google scholar](https://scholar.goo
 <br><br>
 
 ### **Manufacturing, Transportation, and other Engineering Areas**
+
+- **[HFES]**  Sun, T., **Shakur<sup>1</sup>, A.**, Johnson, M., **Huang, S.**, and Kim, J., "**Patterns of Eye Movement Influenced by Multitasking Workload: A Clustering Analysis**", *Proceedings of the Human Factors and Ergonomics Society Annual Meeting*, 2021. 
 
 - **[TRC]**  **Zhu<sup>1</sup>, X.**, **Feng<sup>1</sup>, J.**, **Huang, S.**, and Chen, C., "**An Online Updating Method for Time-Varying Preference Learning**", *Transportation Research Part C: Emerging Technologies*, 2020. 
 
