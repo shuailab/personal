@@ -20,3 +20,11 @@ title:
 
 - [Brain Functional Connectivity Online Platform](http://brainconnectivity.cc/) [By Yan Jin] (expired)
 - [INSIGHT Automatic Machine Learning System](http://52.88.5.75:9100/) [By Yan Jin and Guan Wang] (expired)
+
+
+### **Misc**
+
+- [Codes (R and Python) and datasets for our Data Analytics Book](https://github.com/analyticsbook/book) [By Shuai Huang and Houtao Deng]
+- [mPOWEr](https://www.mpowercare.org/)
+- [Big Data for Mobility](https://sites.uw.edu/bigdata4mobility/)
+
