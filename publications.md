@@ -68,6 +68,8 @@ A full list of publications can be found in [google scholar](https://scholar.goo
 
 ### **Healthcare (Disease Research/Healthcare Management)**
 
+- **[IISE-HSE]**  **Shakur<sup>1</sup>, A.**, Sun, T., Kim, J. and **Huang, S**., "**Discovery of Multimodal Biomarkers of ADHD Using Eye movement and EEG data: A Rule-based Exploratory Analysis Approach**", *IISE Transactions on Healthcare Systems Engineering*, 2022.
+
 - **[ICASSP]** Huo, Z., Ji, T., Liang, Y., **Huang, S**., Wang, Z., Qian, X. and Mortazavi, B "**Dynimp: Dynamic Imputation for Wearable Sensing Data through Sensory and Temporal Relatedness**", *IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)*, 2022.
 
 - **[IEEE-BHI]** Huo, Z., Zhang, L., Khera, R., **Huang, S**., Wang, Z., Qian, X. and Mortazavi, B "**Sparse Gated Mixture-of-Experts to Separate and Interpret Patient Heterogeneity in EHR data**", *IEEE EMBS International Conference on Biomedical and Health Informatics (BHI)*, 2021.
