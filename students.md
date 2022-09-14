@@ -11,7 +11,6 @@ title:
 	* Qualify Exam passed in 02/2021
 - Ameer Hamza Shakur 
 	* General Exam passed in 04/2021
-	* Expect to graduate in summer of 2022
 	* Dissertation topic: "Learning Rule-based AI Models for Interpretable and Transparent Decision Makings"
 
 **PhD students (graduated)**
