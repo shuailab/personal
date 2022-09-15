@@ -14,6 +14,8 @@ title:
 	* General Exam passed in 04/2021
 	* Dissertation topic: "Learning Rule-based AI Models for Interpretable and Transparent Decision Makings"
 - Ekin Ugurel (co-advised with Dr. Cynthia Chen)
+ 	* Qualify Exam passed in 06/2022
+
 
 
 **PhD students (graduated)**
