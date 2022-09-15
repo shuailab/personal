@@ -9,9 +9,12 @@ title:
 	* Qualify Exam passed in 02/2022
 - Wengeng Pan (co-advised with Dr. Chaoyue Zhao)
 	* Qualify Exam passed in 02/2021
+	* Dissertation topic: "From Infectious Disease Monitoring to Power System Planning: How Machine Learning can Solve Operations Research Problems"
 - Ameer Hamza Shakur 
 	* General Exam passed in 04/2021
 	* Dissertation topic: "Learning Rule-based AI Models for Interpretable and Transparent Decision Makings"
+- Ekin Ugurel (co-advised with Dr. Cynthia Chen)
+
 
 **PhD students (graduated)**
 
