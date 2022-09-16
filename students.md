@@ -11,7 +11,6 @@ title:
 	* Qualify Exam passed in 02/2021
 	* Dissertation topic: "From Infectious Disease Monitoring to Power System Planning: Integrate Learning and Operations on Networked Systems"
 - Ameer Hamza Shakur 
- 	* Qualify Exam passed in 02/2019
 	* General Exam passed in 04/2021
 	* Dissertation topic: "Learning Rule-based AI Models for Interpretable and Transparent Decision Makings"
 - Ekin Ugurel (co-advised with Dr. Cynthia Chen)
