@@ -18,7 +18,6 @@ title:
  	* Qualify Exam passed in 06/2022
 
 
-
 **PhD students (graduated)**
 
 - Jingshuo Feng (graduated in 2021)
