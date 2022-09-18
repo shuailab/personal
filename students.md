@@ -62,6 +62,7 @@ title:
 
 - Yi He
 - Ameer Hamza Shakur
+- Congjing Zhang
 
 **Undergraduate students**
 
