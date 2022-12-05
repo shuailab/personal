@@ -27,7 +27,7 @@ title:
 	* Dissertation topic: "Rule-based Risk Monitoring Systems for Complex Datasets"
 	* Recipient of the Dissertation Completion Award in 2015
 	* First position: Optimization Statistician at Citi
-	* Current position: Senior Data Scientist at Verizon
+	* Current position: Data Scientist at Amazon
 - Yan Jin (graduated in 2017)
 	* Dissertation topic: "Diagnostic Monitoring of High-dimensional Networked Systems"
 	* Finalist of INFORMS QSR 2015 best student paper competition
@@ -47,6 +47,7 @@ title:
 	* Outstanding Female Engineer Award, Society of Women Engineers (SWE)'s at University of Washington
 	* Graduate School's Fellowship for Excellence and Innovation Top Scholar Award at UW
 	* First position: Research Scientist at Convoy
+	* Current position: Senior Data & Applied Scientist/Tech Lead at Capacity, Supply Chain & Provisioning Microsoft Azure
 - Cao Xiao (graduated in 2016, co-advised with Dr. W. Art Chaovalitwongse)
 	* Dissertation topic: "Optimization and Machine Learning Methods for Medical and Healthcare Applications"
 	* Research Intern at IBM T.J. Watson Research Center
@@ -54,7 +55,7 @@ title:
 	* Finalist of IIE-CIS Mobile App Competition in 2016 (Team lead of UW-CHI app)
 	* Graduate School's Fellowship for Excellence and Innovation Top Scholar Award at UW
 	* First position: Research Scientist at IBM T.J. Watson Research Center
-	* Current position: Director of Machine Learning. Analytics Center of Excellence, IQVIA
+	* Current position: VP of AI/ML research at Relativity
 - Xi Zhu (graduated in 2020, co-advised with Dr. Cynthia Chen)
 	* Dissertation topic: "Individual Preference Learning with Collaborative Learning Framework"
 
