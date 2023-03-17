@@ -10,12 +10,9 @@ title:
 - Wengeng Pan (co-advised with Dr. Chaoyue Zhao)
 	* Qualify Exam passed in 02/2021
 	* Dissertation topic: "From Infectious Disease Monitoring to Power System Planning: Integrate Learning and Operations on Networked Systems"
-- Ameer Hamza Shakur 
-	* General Exam passed in 04/2021
-	* Dissertation topic: "Learning Rule-based AI Models for Interpretable and Transparent Decision Makings"
 - Ekin Ugurel (co-advised with Dr. Cynthia Chen) 
 	* Qualify Exam passed in 06/2022
-
+- Congjing Zhang 
 
 **PhD students (graduated)**
 
@@ -48,6 +45,9 @@ title:
 	* Graduate School's Fellowship for Excellence and Innovation Top Scholar Award at UW
 	* First position: Research Scientist at Convoy
 	* Current position: Senior Data & Applied Scientist/Tech Lead at Capacity, Supply Chain & Provisioning Microsoft Azure
+- Ameer Hamza Shakur (graduated in 2023)
+	* Dissertation topic: "Learning Rule-based AI Models for Interpretable and Transparent Decision Makings"
+	* First position: Research Scientist at ThinkSense
 - Cao Xiao (graduated in 2016, co-advised with Dr. W. Art Chaovalitwongse)
 	* Dissertation topic: "Optimization and Machine Learning Methods for Medical and Healthcare Applications"
 	* Research Intern at IBM T.J. Watson Research Center
