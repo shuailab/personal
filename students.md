@@ -68,6 +68,7 @@ title:
 **Undergraduate students**
 
 - Borui Li (Developer of UW-CHI app)
+- Dillon Gyotoku
 - Eric Kammers (Participant of NSF REU)
 - Tianyi Wang
 - Fan Xu
