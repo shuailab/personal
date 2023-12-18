@@ -8,7 +8,7 @@ He develops methodologies for modeling, monitoring, anomaly detection, diagnosis
 
 He also develops novel AI and machine learning models to integrate the massive heterogeneous datasets such as neuroimaging, genomics, proteomics, laboratory tests, demographics, and clinical variables, for facilitating scientific [discoveries](https://ieeexplore.ieee.org/abstract/document/8888210) in biomedical research and better [decision making](https://ieeexplore.ieee.org/abstract/document/9413157) in clinical practices. 
 
-Working with domain experts, these data-driven learning, data engineering, and decision-making models are applied to a range of applications such as healthcare ([precision medicine](https://www.mpowercare.org), [disease research](https://link.springer.com/article/10.1007/s41666-020-00085-1), [biomarker discovery](https://www.tandfonline.com/doi/abs/10.1080/24725579.2018.1496494)), neuroscience, system biology, [IoT](http://proceedings.mlr.press/v108/huo20a.html), [monitoring and anomaly detection](https://www.tandfonline.com/doi/abs/10.1080/24725854.2017.1301692), and [transportation](https://ieeexplore.ieee.org/abstract/document/9292970) ([mobility data analysis](https://sites.uw.edu/bigdata4mobility/), [user behavior modeling](https://www.sciencedirect.com/science/article/abs/pii/S0968090X20307191) for smart transportation demand management (TDM)).
+Working with domain experts, these data-driven learning, data engineering, and decision-making models are applied to a range of applications such as healthcare ([precision medicine](https://www.mpowercare.org), equitable health care, fair genetic risk score, [disease research](https://link.springer.com/article/10.1007/s41666-020-00085-1), [biomarker discovery](https://www.tandfonline.com/doi/abs/10.1080/24725579.2018.1496494)), neuroscience, system biology, [IoT](http://proceedings.mlr.press/v108/huo20a.html), [monitoring and anomaly detection](https://www.tandfonline.com/doi/abs/10.1080/24725854.2017.1301692), and [transportation](https://ieeexplore.ieee.org/abstract/document/9292970) ([mobility data analysis](https://sites.uw.edu/bigdata4mobility/), [user behavior modeling](https://www.sciencedirect.com/science/article/abs/pii/S0968090X20307191) for smart transportation demand management (TDM)).
 
 <br>
 
@@ -40,7 +40,7 @@ Working with domain experts, these data-driven learning, data engineering, and d
 
 <br>
 
-*Improve the Interpretability and Transparency of Risk Prediction of Type 1 Diabetes by Rule-based Methods*
+*Improve the Interpretability, Transparency, and Fairness of Risk Prediction of Type 1 Diabetes by Rule-based Methods*
 
 <br>
 
