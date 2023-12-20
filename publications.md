@@ -171,6 +171,13 @@ A full list of publications can be found in [google scholar](https://scholar.goo
 
 
 ### **Honors and Awards**
+- Professional Achievement Award, Division of Data Analytics and Information Systems (DAIS), Institute of Industrial and Systems Engineers (IISE), 2023.
+        * "*This award recognizes an individual who has made significant contributions to the field of Data Analytics and Information Systems.*"
+- Teaching Award, Division of Data Analytics and Information Systems (DAIS), Institute of Industrial and Systems Engineers (IISE), 2023.
+        * "*This award recognizes individual faculty for sustained performance of excellence in teaching DAIS-related courses.*"
+- Best Paper Award of INFORMS QSR Subdivision (Finalist), for paper “*Fair Collaborative Learning (FairCL): Improve Fairness amid Personalization*”, 2023.
+- Feature Article in ISE Magazine, for paper “*Discovery of Multimodal Biomarkers of ADHD using Eye Movement and EEG Data: A Rule-based Exploratory Analysis Approach*”, Jan. 2023.
+- Faculty Appreciation for Career Education & Training (FACET) Award, College of Engineering Career Center, University of Washington, 2022.
 - Best Paper Award (First Runner-up), for paper “Optimal Expert Knowledge Elicitation for Bayesian Network Structure Identification”, IEEE Transactions on Automation Science and Engineering, 2019.
 - Award of Merit, Amazon Catalyst, for “Magic Mirror: A Smart Camera that Reads Your Face Everyday”, 2017.
 - Honorable Mention, for paper “High-dimensional Process Monitoring and Change Point Detection using Embedding Distributions in Reproducing Kernel Hilbert Space (RKHS)”, IIE Transactions Focused Issue on Quality and Reliability Engineering Best Applications Paper Award Competition, 2016
