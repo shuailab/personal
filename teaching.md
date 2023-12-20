@@ -5,6 +5,7 @@ title: Teaching
 **DATA ANALYTICS**  (check out our UW ISE [data science option](https://ise.washington.edu/students/BSIE/data-science-option))
 
 - [IND E 427 Data Analytics for Systems Engineering](http://analytics.shuaihuang.info/)
+- This course, and its textbook, won the Teaching Award, Division of Data Analytics and Information Systems (DAIS), Institute of Industrial and Systems Engineers (IISE), 2023
 
 
 
