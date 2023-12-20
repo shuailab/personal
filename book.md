@@ -4,10 +4,9 @@ title: DATA ANALYTICS
 
 - Free online version [here](http://dataanalyticsbook.info/).
 - Codes (R and Python) and datasets available at [github](https://github.com/analyticsbook/book).
-- Solution manual (for instructors) available at [here](https://www.routledge.com/Data-Analytics-A-Small-Data-Approach/Huang-Deng/p/book/9780367609504).   
+- Solution manual (for instructors) available at [here](https://www.routledge.com/Data-Analytics-A-Small-Data-Approach/Huang-Deng/p/book/9780367609504). 
 - Buy the book [here](https://www.routledge.com/Data-Analytics-A-Small-Data-Approach/Huang-Deng/p/book/9780367609504) or through [Amazon.com](https://www.amazon.com/Data-Analytics-Approach-Chapman-Science/dp/0367609509).
-- UW students, check out the Data Analytics course [here](https://ise.washington.edu/students/BSIE/data-science-option)
-	* The Data Analytics course, and its textbook, won the Teaching Award from the Division of Data Analytics and Information Systems (DAIS), Institute of Industrial and Systems Engineers (IISE), 2023.
+
 
 <p align="center">
   <img src='./images/book_photo.jpeg' alt='book' style="width:60%"/>
@@ -18,7 +17,8 @@ title: DATA ANALYTICS
 
 
 
-- Suitable for introductory data analytics courses. 
+- Suitable for introductory data analytics courses.
+	* UW students, check out the Data Analytics course [here](https://ise.washington.edu/students/BSIE/data-science-option). The Data Analytics course, and its textbook, won the Teaching Award from the Division of Data Analytics and Information Systems (DAIS), Institute of Industrial and Systems Engineers (IISE), 2023.
 - Emphasize storytelling and holistic understanding
 	* to build trust and transparency for trustworthy data science and AI applications.
 - Build confidence by rigorous training and simple learning strategies
@@ -27,4 +27,3 @@ title: DATA ANALYTICS
 	* whose members with diverse backgrounds understand the principles and intuitions of data science and AI tools
 	* can communicate about them in effective language
 	* can participate in the development of productive and responsible AI tools in various ways.
-
