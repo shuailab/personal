@@ -171,10 +171,8 @@ A full list of publications can be found in [google scholar](https://scholar.goo
 
 
 ### **Honors and Awards**
-- Professional Achievement Award, Division of Data Analytics and Information Systems (DAIS), Institute of Industrial and Systems Engineers (IISE), 2023.
-        * "This award recognizes an individual who has made significant contributions to the field of Data Analytics and Information Systems."
-- Teaching Award, Division of Data Analytics and Information Systems (DAIS), Institute of Industrial and Systems Engineers (IISE), 2023.
-        * "This award recognizes individual faculty for sustained performance of excellence in teaching DAIS-related courses."
+- Professional Achievement Award, Division of Data Analytics and Information Systems (DAIS), Institute of Industrial and Systems Engineers (IISE), 2023. *This award recognizes an individual who has made significant contributions to the field of Data Analytics and Information Systems.*
+- Teaching Award, Division of Data Analytics and Information Systems (DAIS), Institute of Industrial and Systems Engineers (IISE), 2023. *This award recognizes individual faculty for sustained performance of excellence in teaching DAIS-related courses.*
 - Best Paper Award of INFORMS QSR Subdivision (Finalist), for paper “*Fair Collaborative Learning (FairCL): Improve Fairness amid Personalization*”, 2023.
 - Feature Article in ISE Magazine, for paper “*Discovery of Multimodal Biomarkers of ADHD using Eye Movement and EEG Data: A Rule-based Exploratory Analysis Approach*”, Jan. 2023.
 - Faculty Appreciation for Career Education & Training (FACET) Award, College of Engineering Career Center, University of Washington, 2022.
