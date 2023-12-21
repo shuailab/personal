@@ -18,7 +18,7 @@ title: DATA ANALYTICS
 
 
 - Suitable for introductory data analytics courses.
-	* UW students, check out the Data Analytics course [here](https://ise.washington.edu/students/BSIE/data-science-option). The Data Analytics course, and its textbook, won the Teaching Award from the Division of Data Analytics and Information Systems (DAIS), Institute of Industrial and Systems Engineers (IISE), 2023.
+	* UW students, check out the Data Analytics course [here](https://ise.washington.edu/students/BSIE/data-science-option). 
 - Emphasize storytelling and holistic understanding
 	* to build trust and transparency for trustworthy data science and AI applications.
 - Build confidence by rigorous training and simple learning strategies
