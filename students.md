@@ -57,7 +57,7 @@ title:
 	* Graduate School's Fellowship for Excellence and Innovation Top Scholar Award at UW
 	* First position: Research Scientist at IBM T.J. Watson Research Center
 	* Past position: VP of AI/ML research at Relativity
- 	* Current position: VP of AI at GE Healthcare
+        * Current position: VP of AI at GE Healthcare
 - Xi Zhu (graduated in 2020, co-advised with Dr. Cynthia Chen)
 	* Dissertation topic: "Individual Preference Learning with Collaborative Learning Framework"
 
