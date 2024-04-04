@@ -19,7 +19,7 @@ title:
 - Jingshuo Feng (graduated in 2021)
 	* Dissertation topic: "Modeling Heterogeneous User Behavior in Interactive Systems by Graphical Model and Collaborative Learning"
 	* Research Intern in AI Platform at Kuaishou Technology 
-	* Current position: Vice President (Model/Anlys/Valid Officer) at Citibank
+	* Current position: VP (Model/Anlys/Valid Officer) at Citibank
 - Mona Haghighi (graduated in 2016, USF)
 	* Dissertation topic: "Rule-based Risk Monitoring Systems for Complex Datasets"
 	* Recipient of the Dissertation Completion Award in 2015
@@ -36,6 +36,7 @@ title:
 	* The Lee B. Lusted Student Prize from the Society for Medical Decision Making (SMDM) in 2016
 	* Research Intern at NEC Laboratories America, Inc.
 	* First position: Assistant Professor, Department of Industrial Engineering, University of Houston
+	* Current position: Associate Professor (with Tenure), Department of Industrial Engineering, University of Houston
 - Yazhuo Liu (graduated in 2015, co-advised with Dr. Jose Zayas-Castro at USF)
 	* Dissertation topic: "Patient Population, Clinical Association, and Systems Efficiency in Healthcare Delivery System"
 - Aven Samareh (graduated in 2019)
@@ -55,7 +56,8 @@ title:
 	* Finalist of IIE-CIS Mobile App Competition in 2016 (Team lead of UW-CHI app)
 	* Graduate School's Fellowship for Excellence and Innovation Top Scholar Award at UW
 	* First position: Research Scientist at IBM T.J. Watson Research Center
-	* Current position: VP of AI/ML research at Relativity
+	* Past position: VP of AI/ML research at Relativity
+ 	* Current position: VP of AI at GE Healthcare
 - Xi Zhu (graduated in 2020, co-advised with Dr. Cynthia Chen)
 	* Dissertation topic: "Individual Preference Learning with Collaborative Learning Framework"
 
