@@ -2,6 +2,8 @@
 title: Research
 ---
 
+
+<!---
 Our research is driven by challenging data analytics and AI problems, emphasizes innovation in machine learning and AI modeling for [complex systems and processes](https://www.sciencedirect.com/science/article/abs/pii/S1053811909014281) in the [connected world](https://ieeexplore.ieee.org/abstract/document/8169076), automates the [integration of human](https://ieeexplore.ieee.org/abstract/document/8304661) with these data-driven learning systems, and targets [interpretable and explainable](https://www.sciencedirect.com/science/article/abs/pii/S1532046421000204) decision-makings. 
 
 We develop methodologies for modeling, monitoring, anomaly detection, diagnosis, and prognosis of [complex networked systems](https://www.tandfonline.com/doi/abs/10.1080/24725854.2017.1301692), such as brain connectivity networks, manufacturing processes, enterprise systems, cyber-physics systems, and Internet of Things (IoT). 
@@ -10,13 +12,7 @@ We also develop novel machine learning models to integrate the massive heterogen
 
 Working with domain experts, these data-driven learning and decision-making models are applied to a range of applications such as healthcare ([precision medicine](https://www.mpowercare.org), [disease research](https://link.springer.com/article/10.1007/s41666-020-00085-1), [biomarker discovery](https://www.tandfonline.com/doi/abs/10.1080/24725579.2018.1496494)), neuroscience, system biology, [IoT](http://proceedings.mlr.press/v108/huo20a.html), [monitoring and anomaly detection](https://www.tandfonline.com/doi/abs/10.1080/24725854.2017.1301692), and [transportation](https://ieeexplore.ieee.org/abstract/document/9292970) ([mobility data analysis](https://sites.uw.edu/bigdata4mobility/), [user behavior modeling](https://www.sciencedirect.com/science/article/abs/pii/S0968090X20307191) for smart transportation demand management (TDM)).
 
-<br>
 
-<p align="center">
-  <img src='./images/theme_shuais_reserach.png' alt='research'/>
-</p>
-
-<br><br>
 
 **Example Projects**
 
@@ -79,7 +75,7 @@ Working with domain experts, these data-driven learning and decision-making mode
 - Integration with mHealth technology ([link](https://sites.google.com/site/shuaihuang28/research/thrust-2/mpower?authuser=0))
 
 
-<!---
+
 
 ___
 
@@ -118,11 +114,14 @@ ___
 
 **Acknowledgment for Funding Support**
 - National Science Foundation (CMMI-1505260, CMMI-1536398, CMMI-1824623, CCF-1715027, CIS-2114260)
-- Juvenile Diabetes Research Foundation
+- Breakthrough T1D (formerly known as the Juvenile Diabetes Research Foundation)
 - NIH
+- AHRQ
 - DARPA WASH; DARPA D3M 
 - AFOSR DDDAS
-- USDOT (RITA)
+- USDOT
 - Byrd Alzheimer's Institute 
 - Royalty Research Foundation
 - Helmsley Foundation
+- Amazon
+- Meta
