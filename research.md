@@ -2,13 +2,23 @@
 title: Research
 ---
 
+Our research focuses on the characterization of some novel statistical nature of modern complex systems that would lead to better modeling, prediction, and uncertainty quantification. We have studied complex systems that range from manufacturing, healthcare, and transportation. Examplary projects include
+
+- Quality Science for Networked Systems: we develop methodologies for modeling, monitoring, anomaly detection, diagnosis, and prognosis of [complex networked systems](https://www.tandfonline.com/doi/abs/10.1080/24725854.2017.1301692). These networked systems are continuously monitored by a distributed structure of senses. The statistical uncertainty and interdependency is complex. Examples of these networked systems are abundant in manufacturing, healthcare, and any application that implementes internet of things (IoT).
+- Multi-modal Data Fusion: We develop novel machine learning models to integrate the massive heterogeneous datasets such as neuroimaging, genomics, proteomics, laboratory tests, demographics, and clinical variables, for facilitating scientific [discoveries](https://ieeexplore.ieee.org/abstract/document/8888210) in biomedical research and better [decision making](https://ieeexplore.ieee.org/abstract/document/9413157) in clinical practices.
+- User Behavioral Modeling: We develop novel user behavioral and choice-making models (i.e., under rewards) to characterize how users interact with an APP system and make decisions. We also develop methods to detect [anomalous users](https://www.tandfonline.com/doi/abs/10.1080/24725854.2023.2279080) (the so-called "bad actors") from their behavioral patterns.
+- Personalized Machine Learning Models: We develop the [collaborative learning framework](https://pubsonline.informs.org/doi/10.1287/ijds.2024.0029) that can achieve multi-level characterization of a population: it builds a canonical structure that shared by all individuals and the individual models together, extending the traditional mixed effect models to a more fine-grained statistical characterization of the population heterogeneity, while also borrowing strength from modern optimization tools to generate robust and generalizable personalized models even under sparse individual data and uneven distribution of samples across individuals.    
+
+
+
+
 
 <!---
 Our research is driven by challenging data analytics and AI problems, emphasizes innovation in machine learning and AI modeling for [complex systems and processes](https://www.sciencedirect.com/science/article/abs/pii/S1053811909014281) in the [connected world](https://ieeexplore.ieee.org/abstract/document/8169076), automates the [integration of human](https://ieeexplore.ieee.org/abstract/document/8304661) with these data-driven learning systems, and targets [interpretable and explainable](https://www.sciencedirect.com/science/article/abs/pii/S1532046421000204) decision-makings. 
 
 We develop methodologies for modeling, monitoring, anomaly detection, diagnosis, and prognosis of [complex networked systems](https://www.tandfonline.com/doi/abs/10.1080/24725854.2017.1301692), such as brain connectivity networks, manufacturing processes, enterprise systems, cyber-physics systems, and Internet of Things (IoT). 
 
-We also develop novel machine learning models to integrate the massive heterogeneous datasets such as neuroimaging, genomics, proteomics, laboratory tests, demographics, and clinical variables, for facilitating scientific [discoveries](https://ieeexplore.ieee.org/abstract/document/8888210) in biomedical research and better [decision making](https://ieeexplore.ieee.org/abstract/document/9413157) in clinical practices. 
+ 
 
 Working with domain experts, these data-driven learning and decision-making models are applied to a range of applications such as healthcare ([precision medicine](https://www.mpowercare.org), [disease research](https://link.springer.com/article/10.1007/s41666-020-00085-1), [biomarker discovery](https://www.tandfonline.com/doi/abs/10.1080/24725579.2018.1496494)), neuroscience, system biology, [IoT](http://proceedings.mlr.press/v108/huo20a.html), [monitoring and anomaly detection](https://www.tandfonline.com/doi/abs/10.1080/24725854.2017.1301692), and [transportation](https://ieeexplore.ieee.org/abstract/document/9292970) ([mobility data analysis](https://sites.uw.edu/bigdata4mobility/), [user behavior modeling](https://www.sciencedirect.com/science/article/abs/pii/S0968090X20307191) for smart transportation demand management (TDM)).
 
