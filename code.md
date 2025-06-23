@@ -15,6 +15,8 @@ title:
 - [MTL-SICE (Multi-task Learning of SICE)](https://drive.google.com/file/d/0Bx9UoSDt26JAWUZNeFNHN1IteVk/view) [By Shuai Huang]
 - [SBN (Sparse Bayesian Network)](https://drive.google.com/file/d/0Bx9UoSDt26JAYm5HcXBFTXNBZms/view) [By Shuai Huang]
 
+### **Benchmark Dataset**
+- [SmartHome-Bench](https://github.com/Xinyi-0724/SmartHome-Bench-LLM) [by Xinyi Zhao and Congjing Zhang]
 
 ### **Web Apps and Online Systems**
 
