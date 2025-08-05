@@ -66,11 +66,13 @@ title:
 - Yi He
 - Ameer Hamza Shakur
 - Congjing Zhang
+- Yuantai Wei
 
 **Undergraduate students**
 
 - Borui Li (Developer of UW-CHI app)
 - Dillon Gyotoku
 - Eric Kammers (Participant of NSF REU)
+- Giovanna Woentono
 - Tianyi Wang
 - Fan Xu
