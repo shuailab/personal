@@ -66,7 +66,7 @@ title:
 - Yi He
 - Ameer Hamza Shakur
 - Congjing Zhang
-- Yuantai Wei
+- Yuantao Wei
 
 **Undergraduate students**
 
