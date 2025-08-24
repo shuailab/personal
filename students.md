@@ -10,9 +10,9 @@ title:
 - Wengeng Pan (co-advised with Dr. Chaoyue Zhao)
 	* Qualify Exam passed in 02/2021
 	* Dissertation topic: "From Infectious Disease Monitoring to Power System Planning: Integrate Learning and Operations on Networked Systems"
-- Ekin Ugurel (co-advised with Dr. Cynthia Chen) 
+- [Ekin Ugurel](https://ekinugurel.github.io/) (co-advised with Dr. Cynthia Chen) 
 	* Qualify Exam passed in 06/2022
-- Congjing Zhang 
+- [Congjing Zhang](https://rancyz.github.io/)
 
 **PhD students (graduated)**
 
