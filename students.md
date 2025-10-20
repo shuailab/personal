@@ -5,7 +5,7 @@ title:
 
 **PhD students (current)**
 
-- Feng Lin 
+- [Feng Lin](https://www.ryanflin.com/) 
 	* Qualify Exam passed in 02/2022
 - Wengeng Pan (co-advised with Dr. Chaoyue Zhao)
 	* Qualify Exam passed in 02/2021
