@@ -73,6 +73,8 @@ title:
 - Borui Li (Developer of UW-CHI app)
 - Dillon Gyotoku
 - Eric Kammers (Participant of NSF REU)
+- Meera Rajeev Patel
+- Noelle So
 - Giovanna Woentono
 - Tianyi Wang
 - Fan Xu
