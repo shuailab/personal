@@ -70,6 +70,7 @@ title:
 
 **Undergraduate students**
 
+- Michael Chiu
 - Borui Li (Developer of UW-CHI app)
 - Dillon Gyotoku
 - Eric Kammers (Participant of NSF REU)
