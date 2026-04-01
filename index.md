@@ -1,5 +1,5 @@
 ---
-title: About me
+title: About me 
 ---
 
 <img src='./images/portrait.jpg' alt='portrait' style="width:30%" align="right"/>
