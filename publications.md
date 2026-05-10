@@ -6,6 +6,8 @@ A full list of publications can be found in [google scholar](https://scholar.goo
 
 ### **Machine Learning/Data Analytics**
 
+- **[IJDS]** Lin, F., Zhao, C., Qian X., Vehik K., and **Huang S.**, “**Fair Collaborative Learning (FairCL): A Method to Improve Fairness amid Personalization**”, *INFORMS Journal on Data Science*, 2024.
+
 - **[ICML]** Ardywibowo, R., Boluki, S., Wang, Z., Mortazavi, B., **Huang, S**., and Qian, X., “**VFDS: Variational Foresight Dynamic Selection in Bayesian Neural Networks**”, *The 25th International Conference on Artificial Intelligence and Statistics (AISTAT 2022)*, 2022.
 
 - **[AISTAT]** Ardywibowo, R., Huo, Z., Boluki, S., Wang, Z., Mortazavi, B., **Huang, S**., and Qian, X., “**VariGrow: Variational Architecture Growing for Task-Agnostic Continual Learning based on Bayesian Novelty**”, *Proceedings of the 39th International Conference on Machine Learning (ICML)*, 2022.
