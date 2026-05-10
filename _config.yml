@@ -17,7 +17,7 @@ links:
     url:          /publications
     external:     false
   - name:         Book
-    url:          /Book
+    url:          /book
     external:     false
   - name:         Teaching
     url:          /teaching
