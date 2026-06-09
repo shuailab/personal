@@ -70,6 +70,7 @@ title:
 
 **Undergraduate students**
 
+- Yoav Ackerman
 - Michael Chiu
 - Borui Li (Developer of UW-CHI app)
 - Dillon Gyotoku
