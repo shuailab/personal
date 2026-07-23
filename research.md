@@ -2,6 +2,32 @@
 title: Research
 ---
 
+We develop statistical learning and artificial intelligence methods for transforming complex, heterogeneous, and imperfect real-world data into reliable scientific knowledge and actionable decisions. Our research spans statistical machine learning, quality and reliability engineering, optimization, and data-driven systems science, with applications in healthcare, manufacturing, transportation, human behavior, and food systems. Across these areas, we focus on building intelligent systems that are personalized, interpretable, uncertainty-aware, and useful in practice.
+
+Our work supports the national priority of preparing science for the **Age of Intelligence**. Research in multimodal data fusion, collaborative learning, digital twins, synthetic populations, and AI agents explores how artificial intelligence can integrate diverse evidence, simulate alternative interventions, and update models as new data become available. We view AI not as a replacement for scientific judgment, but as a tool that can strengthen discovery when combined with domain knowledge, human expertise, and real-world validation. This direction aligns with the White House report’s emphasis on interdisciplinary research and an AI-enabled scientific enterprise.
+
+A second theme is **Rigorous and Trustworthy Science**. Real-world data are often noisy, incomplete, heterogeneous, and shaped by changing human and operational conditions. We develop methods for uncertainty quantification, anomaly detection, causal and longitudinal learning, privacy-preserving collaboration, and the identification of meaningful subgroups. These methods are intended to improve the transparency, robustness, and reproducibility of AI-supported research, particularly in high-consequence settings such as healthcare and engineered systems.
+
+Another emerging direction in our research is the **Wisdom of Crowds** for scientific and engineering intelligence. We study how distributed knowledge from experts, practitioners, patients, workers, and AI agents can be systematically collected, evaluated, and combined. Rather than assuming that useful knowledge must come from a single model or authority, we develop methods to identify consensus, structured disagreement, subgroup expertise, and uncertainty across diverse contributors. This work supports more inclusive and adaptive forms of scientific discovery, especially in settings where evidence is incomplete, expertise is dispersed, and no single source has a complete view of the problem.
+
+Our research also contributes to the goal of reconnecting scientific discovery with **technological and industrial capability**. Work in quality engineering, manufacturing analytics, system monitoring, digital twins, and operational decision support addresses the gap between developing an algorithm and deploying it reliably in practice. By studying AI within clinical, production, mobility, and supply-chain environments, we aim to support more effective experimentation, system improvement, and resilient operations.
+
+Finally, we seek to ensure that scientific and technological progress responds to **human and societal needs**. Applications in chronic disease management, aging, mobility, food access, and personalized services are developed through collaborations across engineering, medicine, public health, industry, government, and community organizations. This collaborative approach is consistent with the report’s emphasis on public–private partnerships, cross-sector research, and the translation of scientific progress into broadly shared benefits.
+
+Taken together, our research aims to help build an AI-enabled scientific and engineering ecosystem in which trustworthy data, rigorous methods, and digital models support discovery, practical innovation, and public benefit.
+
+
+
+
+
+
+
+
+
+
+<!---
+
+-7/2026
 Our research focuses on the identification and characterization of some novel statistical nature of modern complex systems that would lead to better modeling, prediction, and uncertainty quantification. We have studied complex systems that range from healthcare, manufacturing, and transportation, and have recently begun studying food systems in terms of its complex system nature and its intersection with health (i.e., food is medicine). Examplary projects include
 
 - Quality Science for Networked Systems: we develop methodologies for modeling, monitoring, anomaly detection, diagnosis, and prognosis of [complex networked systems](https://www.tandfonline.com/doi/abs/10.1080/24725854.2017.1301692). These networked systems are continuously monitored by a distributed structure of sensors. The statistical uncertainty, interdependency of the variables and the underlying causality are complex and can't be sufficiently characterized by classic multivariate statistical models. Examples of these networked systems are abundant in manufacturing, healthcare, and any application that implementes internet of things (IoT).
@@ -11,12 +37,8 @@ Our research focuses on the identification and characterization of some novel st
 - Digital twin and AI Agentic Systems: We develop digital twin (DT) models (evolving from dynamic system based DTs to Large Language Model (LLM)-based DTs) that are mostly inspired by healthcare applications (such as patient monitoring and [lifestyle management](https://www.tandfonline.com/doi/abs/10.1080/24725579.2019.1640814)) but can also be used in many other fields such as [transportation](https://www.sciencedirect.com/science/article/pii/S0191261524001887), marketing, [pricing](https://www.sciencedirect.com/science/article/abs/pii/S0968090X20307191), to name a few. These digital twins are further integrated with AI agentic frameworks, guarded by uncertainty quantifications and empowered by principled statistical/causality-supported reasoning to support autonomous decision-makings to improve the agency of individual users (e.g., for health management of a chronic condition) and efficiency of scientific discoveries.
 
 
+before 07/26
 
-
-
-
-
-<!---
 Our research is driven by challenging data analytics and AI problems, emphasizes innovation in machine learning and AI modeling for [complex systems and processes](https://www.sciencedirect.com/science/article/abs/pii/S1053811909014281) in the [connected world](https://ieeexplore.ieee.org/abstract/document/8169076), automates the [integration of human](https://ieeexplore.ieee.org/abstract/document/8304661) with these data-driven learning systems, and targets [interpretable and explainable](https://www.sciencedirect.com/science/article/abs/pii/S1532046421000204) decision-makings. 
 
 We develop methodologies for modeling, monitoring, anomaly detection, diagnosis, and prognosis of [complex networked systems](https://www.tandfonline.com/doi/abs/10.1080/24725854.2017.1301692), such as brain connectivity networks, manufacturing processes, enterprise systems, cyber-physics systems, and Internet of Things (IoT). 
