@@ -17,6 +17,8 @@ Finally, we seek to ensure that scientific and technological progress responds t
 Taken together, our research aims to help build an AI-enabled scientific and engineering ecosystem in which trustworthy data, rigorous methods, and digital models support discovery, practical innovation, and public benefit.
 
 
+
+
 **Highlights of Our Recent Work**
 - [CrowdLLM](https://arxiv.org/abs/2512.07890): We are building LLM-based digital populations that capture diverse human beliefs and behaviors, enabling scalable virtual experimentation and more personalized decision support. (2026 INFORMS QSR Best Paper Competition, Honorable Mention; forthcoming at INFORMS Journal on Data Science)
 - [Team, Then Trim](https://arxiv.org/abs/2602.04785): We use teams of specialized LLM agents to generate realistic, task-relevant tabular data, helping address data scarcity, imbalance, and the high cost of real-world data collection. (2026 IISE DAIS Best Student Paper Competition, 1st Place.)
