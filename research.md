@@ -21,7 +21,7 @@ Taken together, our research aims to help build an AI-enabled scientific and eng
 
 **Highlights of Our Recent Work**
 - [CrowdLLM](https://arxiv.org/abs/2512.07890): We are building LLM-based digital populations that capture diverse human beliefs and behaviors, enabling scalable virtual experimentation and more personalized decision support. (2026 INFORMS QSR Best Paper Competition, Honorable Mention; forthcoming at INFORMS Journal on Data Science)
-- [Team, Then Trim](https://arxiv.org/abs/2602.04785): We use teams of specialized LLM agents to generate realistic, task-relevant tabular data, helping address data scarcity, imbalance, and the high cost of real-world data collection. (2026 IISE DAIS Best Student Paper Competition, 1st Place.)
+- [Team, Then Trim](https://arxiv.org/abs/2602.04785): We use teams of specialized LLM agents to generate realistic, task-relevant tabular data, helping address data scarcity, imbalance, and the high cost of real-world data collection particularly in healthcare. (2026 IISE DAIS Best Student Paper Competition, 1st Place.)
 - Consensus Discovery: We develop methods that uncover meaningful agreement, disagreement, and expertise within crowds, creating a foundation for more reliable human–AI collective intelligence.
 (2026 IISE QCRE Best Student Paper Competition, 1st Place).
 - [ALARM](https://pubsonline.informs.org/doi/10.1287/ijds.2025.0107) — We integrate multimodal LLMs with uncertainty quantification, self-reflection, and ensemble reasoning to detect ambiguous, context-dependent anomalies and support trustworthy monitoring in smart homes, healthcare, and other complex environments.
